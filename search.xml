@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title><![CDATA[blog 搭建]]></title>
-    <url>%2F2018%2F09%2F14%2Fblog-%E6%90%AD%E5%BB%BA%2F</url>
+    <url>%2Fblog%2F2018%2F09%2F14%2Fblog-%E6%90%AD%E5%BB%BA%2F</url>
     <content type="text"><![CDATA[搭建的大致步骤（详细的操作步骤，网上多如牛毛，我在这里就不细说了）1.建立github账号。2.安装github的客户端。3.翻墙、翻墙、翻墙。（因为在安装hexo的时候，不翻墙的话，很难安装成功）4.安装相应的npm、node.js和hexo等。注：运行cmd是要用管理员身份运行（win+x+a）。]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F09%2F14%2Fhello-world%2F</url>
+    <url>%2Fblog%2F2018%2F09%2F14%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
