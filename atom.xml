@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tao</title>
   
-  
+  <subtitle>少年还需努力！#博客副标题</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="www.taoyuhong.com/"/>
   <updated>2018-09-15T08:46:21.294Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>www.taoyuhong.com/</id>
   
   <author>
     <name>Tao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>blog 搭建</title>
-    <link href="http://yoursite.com/2018/09/14/blog-%E6%90%AD%E5%BB%BA/"/>
-    <id>http://yoursite.com/2018/09/14/blog-搭建/</id>
+    <link href="www.taoyuhong.com/2018/09/14/blog-%E6%90%AD%E5%BB%BA/"/>
+    <id>www.taoyuhong.com/2018/09/14/blog-搭建/</id>
     <published>2018-09-14T10:00:04.000Z</published>
     <updated>2018-09-15T08:46:21.294Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/14/hello-world/"/>
-    <id>http://yoursite.com/2018/09/14/hello-world/</id>
+    <link href="www.taoyuhong.com/2018/09/14/hello-world/"/>
+    <id>www.taoyuhong.com/2018/09/14/hello-world/</id>
     <published>2018-09-14T09:31:03.822Z</published>
     <updated>2018-09-14T09:31:03.822Z</updated>
     
