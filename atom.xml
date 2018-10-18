@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2018-09-15T08:46:21.294Z</updated>
+  <updated>2018-10-18T07:34:33.271Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 功能添加</title>
+    <link href="/2018/10/18/Hexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/"/>
+    <id>/2018/10/18/Hexo-功能添加/</id>
+    <published>2018-10-18T07:32:00.000Z</published>
+    <updated>2018-10-18T07:34:33.271Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo 教程" scheme="/categories/hexo-%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="-hexo -优化" scheme="/tags/hexo-%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>blog 搭建</title>
