@@ -5,9 +5,9 @@
   <subtitle>少年还需努力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
+  <link href="https://www.taoyuhong.com/"/>
   <updated>2018-10-18T09:44:12.173Z</updated>
-  <id>/</id>
+  <id>https://www.taoyuhong.com/</id>
   
   <author>
     <name>Tao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo 功能添加</title>
-    <link href="/2018/10/18/Hexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/"/>
-    <id>/2018/10/18/Hexo-功能添加/</id>
+    <link href="https://www.taoyuhong.com/2018/10/18/Hexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/"/>
+    <id>https://www.taoyuhong.com/2018/10/18/Hexo-功能添加/</id>
     <published>2018-10-18T07:32:00.000Z</published>
     <updated>2018-10-18T09:44:12.173Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="hexo 教程" scheme="/categories/hexo-%E6%95%99%E7%A8%8B/"/>
+      <category term="hexo 教程" scheme="https://www.taoyuhong.com/categories/hexo-%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="-hexo -优化 -next主题" scheme="/tags/hexo-%E4%BC%98%E5%8C%96-next%E4%B8%BB%E9%A2%98/"/>
+      <category term="-hexo -优化 -next主题" scheme="https://www.taoyuhong.com/tags/hexo-%E4%BC%98%E5%8C%96-next%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>blog 搭建</title>
-    <link href="/2018/09/14/blog-%E6%90%AD%E5%BB%BA/"/>
-    <id>/2018/09/14/blog-搭建/</id>
+    <link href="https://www.taoyuhong.com/2018/09/14/blog-%E6%90%AD%E5%BB%BA/"/>
+    <id>https://www.taoyuhong.com/2018/09/14/blog-搭建/</id>
     <published>2018-09-14T10:00:04.000Z</published>
     <updated>2018-10-18T09:25:41.371Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="hexo 教程" scheme="/categories/hexo-%E6%95%99%E7%A8%8B/"/>
+      <category term="hexo 教程" scheme="https://www.taoyuhong.com/categories/hexo-%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="-hexo -github" scheme="/tags/hexo-github/"/>
+      <category term="-hexo -github" scheme="https://www.taoyuhong.com/tags/hexo-github/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="/2018/09/14/hello-world/"/>
-    <id>/2018/09/14/hello-world/</id>
+    <link href="https://www.taoyuhong.com/2018/09/14/hello-world/"/>
+    <id>https://www.taoyuhong.com/2018/09/14/hello-world/</id>
     <published>2018-09-14T09:31:03.822Z</published>
     <updated>2018-09-14T09:31:03.822Z</updated>
     
