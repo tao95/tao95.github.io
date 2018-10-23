@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[西山之行]]></title>
+    <url>%2F2018%2F10%2F23%2F%E8%A5%BF%E5%B1%B1%E4%B9%8B%E8%A1%8C%2F</url>
+    <content type="text"><![CDATA[西山公园之行。简介：1. 云南昆明西山风景区，是一个峰峦起伏、林木苍翠、白鸟争鸣、景色秀丽的森林公园。茂密的森林植被，常年 郁郁葱葱，华亭寺、太华寺、三清阁等古刹殿宇楼阁掩映于茂林修竹深处。 2. 西山，昆明“金碧湖山”的象征，雄、险、奇、秀、美尽在西山！]]></content>
+      <categories>
+        <category>游记</category>
+      </categories>
+      <tags>
+        <tag>-游玩 -记录</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo 功能添加]]></title>
     <url>%2F2018%2F10%2F18%2FHexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0%2F</url>
     <content type="text"><![CDATA[二.Hexo的功能添加优化1、选择主题 本人在搭建博客的时候踩了两个主题的坑。首先，说一下hexo默认的主题landscape,我不太喜欢（相信大多数人也不太喜欢），接着是yilia主题，它看起来很美观，但是它不是我想要的博客的样式。所以，最后将主题换成了next主题，很喜欢（目前正在使用），添加插件和增加功能都很方便。]]></content>
