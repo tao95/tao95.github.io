@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《Python学习笔记01》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html</url>
+    <content type="text"><![CDATA[- 一、Python的语言特点1.语法简洁 2.跨平台 3.可拓展 4.开放源码 5.类库丰富 - 二、Python发展历程和历史1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。 3.学习Python编程的利器： 3.1 Python官方文档(https://www.python.org/doc/) 3.2 iPython(https://www.ipython.org)交互式的命令行解释器 3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。 3.4 sublime text(https://www.sublime.com) 3.5 PyCharm(https://www.jetbrains.com/pycharm/) 3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系 - 三、Python的安装1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。 2.windows系统下输入cmd进入到命令提示窗口，输入python，出现如下图情况，则说明python安装成功。![](https://i.imgur.com/zANQPXi.png) 3.下载安装PyCharm。]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[读《如何阅读一本书》]]></title>
     <url>%2F%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B.html</url>
     <content type="text"><![CDATA[作者简介：莫提默·J. 艾德勒：学者、教育家、编辑人等多重面貌享有盛名。除了写作《如何阅读一本书》外， 以主编《西方世界的经典人并担任1974年第十五版《大英百科全书》的编辑相异而闻名于世。 除了他之外还有查尔斯·范多伦。我看的是郝明义 / 朱衣 老师翻译的。]]></content>
