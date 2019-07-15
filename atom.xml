@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tao</title>
   
-  <subtitle>少年还需努力</subtitle>
+  <subtitle>路漫漫其修远兮，吾将上下而求索。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-15T08:45:33.708Z</updated>
+  <updated>2019-07-15T09:29:58.276Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/《Python学习笔记01》.html</id>
     <published>2019-07-04T02:45:45.000Z</published>
-    <updated>2019-07-15T08:45:33.708Z</updated>
+    <updated>2019-07-15T09:29:58.276Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一、Python的语言特点"><a href="#一、Python的语言特点" class="headerlink" title="- 一、Python的语言特点"></a>- 一、Python的语言特点</h1><pre><code>1.语法简洁2.跨平台3.可拓展4.开放源码5.类库丰富</code></pre><h1 id="二、Python发展历程和历史"><a href="#二、Python发展历程和历史" class="headerlink" title="- 二、Python发展历程和历史"></a>- 二、Python发展历程和历史</h1><pre><code>1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。3.学习Python编程的利器：        3.1 Python官方文档(https://www.python.org/doc/)         3.2 iPython(https://www.ipython.org)交互式的命令行解释器        3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。        3.4 sublime text(https://www.sublime.com)        3.5 PyCharm(https://www.jetbrains.com/pycharm/)        3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系</code></pre><h1 id="三、Python的安装"><a href="#三、Python的安装" class="headerlink" title="- 三、Python的安装"></a>- 三、Python的安装</h1><pre><code>1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。2.windows系统下输入cmd进入到命令提示窗口，输入python，出现如下图情况，则说明python安装成功。![](https://i.imgur.com/zANQPXi.png)3.下载安装PyCharm。</code></pre>]]></content>
+    <content type="html"><![CDATA[<h1 id="一、Python的语言特点"><a href="#一、Python的语言特点" class="headerlink" title="- 一、Python的语言特点"></a>- 一、Python的语言特点</h1><pre><code>1.语法简洁2.跨平台3.可拓展4.开放源码5.类库丰富</code></pre><h1 id="二、Python发展历程和历史"><a href="#二、Python发展历程和历史" class="headerlink" title="- 二、Python发展历程和历史"></a>- 二、Python发展历程和历史</h1><pre><code>1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。3.学习Python编程的利器：        3.1 Python官方文档(https://www.python.org/doc/)         3.2 iPython(https://www.ipython.org)交互式的命令行解释器        3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。        3.4 sublime text(https://www.sublime.com)        3.5 PyCharm(https://www.jetbrains.com/pycharm/)        3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系</code></pre><h1 id="三、Python的安装"><a href="#三、Python的安装" class="headerlink" title="- 三、Python的安装"></a>- 三、Python的安装</h1><pre><code>1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。2.windows系统下输入cmd进入到命令提示窗口，输入python，出现python版本号，则说明python安装成功。3.下载安装PyCharm。</code></pre>]]></content>
     
     <summary type="html">
     
@@ -52,7 +52,7 @@
     <link href="https://www.taoyuhong.com/%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/读《如何阅读一本书》.html</id>
     <published>2018-10-30T07:23:38.000Z</published>
-    <updated>2018-11-02T09:05:54.000Z</updated>
+    <updated>2019-07-15T09:27:18.490Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.imgur.com/fJ78W5N.jpg" alt=""><br><a id="more"></a></p><h2 id="作者简介："><a href="#作者简介：" class="headerlink" title="作者简介："></a>作者简介：</h2><pre><code>莫提默·J. 艾德勒：学者、教育家、编辑人等多重面貌享有盛名。除了写作《如何阅读一本书》外，以主编《西方世界的经典人并担任1974年第十五版《大英百科全书》的编辑相异而闻名于世。除了他之外还有查尔斯·范多伦。我看的是郝明义 / 朱衣 老师翻译的。</code></pre>]]></content>
     
@@ -67,9 +67,9 @@
       <category term="阅读方法" scheme="https://www.taoyuhong.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/"/>
     
     
-      <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
       <category term="阅读方法" scheme="https://www.taoyuhong.com/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/"/>
+    
+      <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="读书" scheme="https://www.taoyuhong.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
@@ -80,7 +80,7 @@
     <link href="https://www.taoyuhong.com/%E8%AF%BB%E3%80%8A%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/读《高效能人士的七个习惯》.html</id>
     <published>2018-10-26T09:21:05.000Z</published>
-    <updated>2018-11-29T03:38:33.246Z</updated>
+    <updated>2019-07-15T09:26:42.402Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.imgur.com/QHf6yx5.jpg" alt=""><br>这本书很久以前有人推荐给我看的，那时候看了一部分后面记不清楚因为什么（可能是懒惰吧）就没看了。现在，工作了，周末休息花了点时间看完。但是看完后，有很多记不清楚，所以就花点时间来做一下读书笔记。<br><a id="more"></a></p><h1 id="一-前言"><a href="#一-前言" class="headerlink" title="一. 前言"></a>一. 前言</h1><pre><code>1.要改变现状，就得改善自己。要改善自己，就得改变我们看待外界的观点。2.只重技巧就仿佛考前临时抱佛脚，纵使有时顺利过关，甚至成绩还不错，但未经日积月累的苦读，绝无法学得精通，也不能增进心智的成长。3.人的一生中，来自家庭、学校、</code></pre><h1 id="二-习惯一、掌握“选择的自由”——操之在我的力量"><a href="#二-习惯一、掌握“选择的自由”——操之在我的力量" class="headerlink" title="二. 习惯一、掌握“选择的自由”——操之在我的力量"></a>二. 习惯一、掌握“选择的自由”——操之在我的力量</h1><h1 id="三-习惯二、锁定生命的坐标——确立目标，全力以赴"><a href="#三-习惯二、锁定生命的坐标——确立目标，全力以赴" class="headerlink" title="三. 习惯二、锁定生命的坐标——确立目标，全力以赴"></a>三. 习惯二、锁定生命的坐标——确立目标，全力以赴</h1><h1 id="四-习惯三、忙要忙得有意义——掌握重点的个人管理"><a href="#四-习惯三、忙要忙得有意义——掌握重点的个人管理" class="headerlink" title="四. 习惯三、忙要忙得有意义——掌握重点的个人管理"></a>四. 习惯三、忙要忙得有意义——掌握重点的个人管理</h1><h1 id="五-习惯四、大家都可以是赢家——利人利己的人际观"><a href="#五-习惯四、大家都可以是赢家——利人利己的人际观" class="headerlink" title="五. 习惯四、大家都可以是赢家——利人利己的人际观"></a>五. 习惯四、大家都可以是赢家——利人利己的人际观</h1><h1 id="六-习惯五、做个“双向传播”的聆听者——设身处地的沟通原则"><a href="#六-习惯五、做个“双向传播”的聆听者——设身处地的沟通原则" class="headerlink" title="六. 习惯五、做个“双向传播”的聆听者——设身处地的沟通原则"></a>六. 习惯五、做个“双向传播”的聆听者——设身处地的沟通原则</h1><h1 id="七-习惯六、脑力激荡，威力无比——聚思广益的合作原则"><a href="#七-习惯六、脑力激荡，威力无比——聚思广益的合作原则" class="headerlink" title="七. 习惯六、脑力激荡，威力无比——聚思广益的合作原则"></a>七. 习惯六、脑力激荡，威力无比——聚思广益的合作原则</h1><h1 id="八-习惯七、最佳的“自我投资”策略——均衡发展的成长原则"><a href="#八-习惯七、最佳的“自我投资”策略——均衡发展的成长原则" class="headerlink" title="八. 习惯七、最佳的“自我投资”策略——均衡发展的成长原则"></a>八. 习惯七、最佳的“自我投资”策略——均衡发展的成长原则</h1>]]></content>
     
@@ -95,9 +95,9 @@
       <category term="管理学习" scheme="https://www.taoyuhong.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AE%A1%E7%90%86%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="管理" scheme="https://www.taoyuhong.com/tags/%E7%AE%A1%E7%90%86/"/>
-    
       <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="管理" scheme="https://www.taoyuhong.com/tags/%E7%AE%A1%E7%90%86/"/>
     
       <category term="成长" scheme="https://www.taoyuhong.com/tags/%E6%88%90%E9%95%BF/"/>
     
@@ -135,7 +135,7 @@
     <link href="https://www.taoyuhong.com/Hexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0.html"/>
     <id>https://www.taoyuhong.com/Hexo-功能添加.html</id>
     <published>2018-10-18T07:32:00.000Z</published>
-    <updated>2018-10-18T09:44:14.000Z</updated>
+    <updated>2019-07-15T09:25:28.269Z</updated>
     
     <content type="html"><![CDATA[<h1 id="二-Hexo的功能添加优化"><a href="#二-Hexo的功能添加优化" class="headerlink" title="二.Hexo的功能添加优化"></a>二.Hexo的功能添加优化</h1><h2 id="1、选择主题"><a href="#1、选择主题" class="headerlink" title="1、选择主题"></a>1、选择主题</h2><ul><li>本人在搭建博客的时候踩了两个主题的坑。首先，说一下hexo默认的主题landscape,我不太喜欢（相信大多数人也不太喜欢），接着是yilia主题，它看起来很美观，但是它不是我想要的博客的样式。所以，最后将主题换成了next主题，很喜欢（目前正在使用），添加插件和增加功能都很方便。</li></ul><hr>]]></content>
     
@@ -160,7 +160,7 @@
     <link href="https://www.taoyuhong.com/blog-%E6%90%AD%E5%BB%BA.html"/>
     <id>https://www.taoyuhong.com/blog-搭建.html</id>
     <published>2018-09-14T10:00:04.000Z</published>
-    <updated>2018-10-18T09:25:42.000Z</updated>
+    <updated>2019-07-15T09:26:19.674Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一-搭建的大致步骤"><a href="#一-搭建的大致步骤" class="headerlink" title="一.搭建的大致步骤"></a>一.搭建的大致步骤</h1><h2 id="（详细的操作步骤，网上多如牛毛，我在这里就不细说了）"><a href="#（详细的操作步骤，网上多如牛毛，我在这里就不细说了）" class="headerlink" title="（详细的操作步骤，网上多如牛毛，我在这里就不细说了）"></a>（详细的操作步骤，网上多如牛毛，我在这里就不细说了）</h2><p>1.建立github账号，创建xxx.github.io的仓库。<br>2.安装github的客户端。<br>3.翻墙、翻墙、翻墙。（因为在安装hexo的时候，不翻墙的话，很难安装成功）<br>4.安装相应的npm、node.js和hexo等(不会的，找度娘)。<br>5.在自己的电脑上（windows）新建文件夹,命名为blog，然后管理员运行命令行，进入blog文件夹。<br>6.运行命令: <strong>npm install -g hexo</strong><br>7.接着初始化hexo ,<strong>hexo init</strong><br>8.然后用命令<strong>hexo g</strong>生成静态页面<br>9.最后使用命令<strong>hexo s</strong>启动服务,在浏览器中输入localhost:4000 就可以看到效果<br>注：a.运行cmd是要用管理员身份运行（win+x+a）。<br>    b.在安装hexo时,连接一下vpn,可能要快点，不然会一直卡在那儿。<br>    c.hexo常用命令：<br>        hexo n “hello world” #新建一篇文章<br>        hexo n page “photo” #新建一个相册页面<br>        hexo g #生成静态页面到public目录（这个目录就是上传到        github的文件）<br>        hexo s #开启预览访问服务（默认端口4000，’ctrl + c’关闭        server）<br>        hexo d #部署到GitHub<br>        hexo clean #用来清除public文件夹</p>]]></content>
     
