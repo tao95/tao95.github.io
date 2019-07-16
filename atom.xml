@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-15T09:29:58.276Z</updated>
+  <updated>2019-07-16T09:37:02.347Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《Python学习笔记02》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记02》.html</id>
+    <published>2019-07-16T09:35:16.000Z</published>
+    <updated>2019-07-16T09:37:02.347Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Python基础语法学习"><a href="#Python基础语法学习" class="headerlink" title="Python基础语法学习"></a>Python基础语法学习</h1><h2 id="一、Python程序的书写规则"><a href="#一、Python程序的书写规则" class="headerlink" title="一、Python程序的书写规则"></a>一、Python程序的书写规则</h2><h2 id="二、基础数据类型"><a href="#二、基础数据类型" class="headerlink" title="二、基础数据类型"></a>二、基础数据类型</h2><h2 id="三、变量的定义和常用操作"><a href="#三、变量的定义和常用操作" class="headerlink" title="三、变量的定义和常用操作"></a>三、变量的定义和常用操作</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Python基础语法学习&quot;&gt;&lt;a href=&quot;#Python基础语法学习&quot; class=&quot;headerlink&quot; title=&quot;Python基础语法学习&quot;&gt;&lt;/a&gt;Python基础语法学习&lt;/h1&gt;&lt;h2 id=&quot;一、Python程序的书写规则&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>《Python学习笔记01》</title>

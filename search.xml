@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《Python学习笔记02》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html</url>
+    <content type="text"><![CDATA[Python基础语法学习一、Python程序的书写规则二、基础数据类型三、变量的定义和常用操作]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[《Python学习笔记01》]]></title>
     <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html</url>
     <content type="text"><![CDATA[- 一、Python的语言特点1.语法简洁 2.跨平台 3.可拓展 4.开放源码 5.类库丰富 - 二、Python发展历程和历史1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。 3.学习Python编程的利器： 3.1 Python官方文档(https://www.python.org/doc/) 3.2 iPython(https://www.ipython.org)交互式的命令行解释器 3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。 3.4 sublime text(https://www.sublime.com) 3.5 PyCharm(https://www.jetbrains.com/pycharm/) 3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系 - 三、Python的安装1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。 2.windows系统下输入cmd进入到命令提示窗口，输入python，出现python版本号，则说明python安装成功。 3.下载安装PyCharm。]]></content>
