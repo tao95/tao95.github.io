@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-18T03:11:00.344Z</updated>
+  <updated>2019-07-18T03:17:41.524Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/《Python学习笔记03》.html</id>
     <published>2019-07-18T03:06:43.000Z</published>
-    <updated>2019-07-18T03:11:00.344Z</updated>
+    <updated>2019-07-18T03:17:41.524Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一、序列的概念"><a href="#一、序列的概念" class="headerlink" title="一、序列的概念"></a>一、序列的概念</h1><h1 id="二、字符串的定义"><a href="#二、字符串的定义" class="headerlink" title="二、字符串的定义"></a>二、字符串的定义</h1><h1 id="三、字符串的常用操作"><a href="#三、字符串的常用操作" class="headerlink" title="三、字符串的常用操作"></a>三、字符串的常用操作</h1><h1 id="四、元组的定义和常用操作"><a href="#四、元组的定义和常用操作" class="headerlink" title="四、元组的定义和常用操作"></a>四、元组的定义和常用操作</h1><h1 id="五、列表的定义和常用操作"><a href="#五、列表的定义和常用操作" class="headerlink" title="五、列表的定义和常用操作"></a>五、列表的定义和常用操作</h1>]]></content>
     
@@ -33,6 +33,8 @@
       
     
     </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
@@ -48,7 +50,7 @@
     <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/《Python学习笔记02》.html</id>
     <published>2019-07-16T09:35:16.000Z</published>
-    <updated>2019-07-18T03:11:00.342Z</updated>
+    <updated>2019-07-18T03:17:21.284Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Python基础语法学习"><a href="#Python基础语法学习" class="headerlink" title="Python基础语法学习"></a>Python基础语法学习</h1><h2 id="一、Python程序的书写规则"><a href="#一、Python程序的书写规则" class="headerlink" title="一、Python程序的书写规则"></a>一、Python程序的书写规则</h2><h2 id="二、基础数据类型"><a href="#二、基础数据类型" class="headerlink" title="二、基础数据类型"></a>二、基础数据类型</h2><h2 id="三、变量的定义和常用操作"><a href="#三、变量的定义和常用操作" class="headerlink" title="三、变量的定义和常用操作"></a>三、变量的定义和常用操作</h2>]]></content>
     
@@ -60,6 +62,8 @@
       
     
     </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
@@ -75,7 +79,7 @@
     <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/《Python学习笔记01》.html</id>
     <published>2019-07-04T02:45:45.000Z</published>
-    <updated>2019-07-15T09:29:58.276Z</updated>
+    <updated>2019-07-18T03:17:31.907Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一、Python的语言特点"><a href="#一、Python的语言特点" class="headerlink" title="- 一、Python的语言特点"></a>- 一、Python的语言特点</h1><pre><code>1.语法简洁2.跨平台3.可拓展4.开放源码5.类库丰富</code></pre><h1 id="二、Python发展历程和历史"><a href="#二、Python发展历程和历史" class="headerlink" title="- 二、Python发展历程和历史"></a>- 二、Python发展历程和历史</h1><pre><code>1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。3.学习Python编程的利器：        3.1 Python官方文档(https://www.python.org/doc/)         3.2 iPython(https://www.ipython.org)交互式的命令行解释器        3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。        3.4 sublime text(https://www.sublime.com)        3.5 PyCharm(https://www.jetbrains.com/pycharm/)        3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系</code></pre><h1 id="三、Python的安装"><a href="#三、Python的安装" class="headerlink" title="- 三、Python的安装"></a>- 三、Python的安装</h1><pre><code>1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。2.windows系统下输入cmd进入到命令提示窗口，输入python，出现python版本号，则说明python安装成功。3.下载安装PyCharm。</code></pre>]]></content>
     
@@ -90,7 +94,7 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://www.taoyuhong.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
