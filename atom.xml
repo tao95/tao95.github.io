@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-16T09:37:02.347Z</updated>
+  <updated>2019-07-18T03:11:00.344Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《Python学习笔记03》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记03》.html</id>
+    <published>2019-07-18T03:06:43.000Z</published>
+    <updated>2019-07-18T03:11:00.344Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、序列的概念"><a href="#一、序列的概念" class="headerlink" title="一、序列的概念"></a>一、序列的概念</h1><h1 id="二、字符串的定义"><a href="#二、字符串的定义" class="headerlink" title="二、字符串的定义"></a>二、字符串的定义</h1><h1 id="三、字符串的常用操作"><a href="#三、字符串的常用操作" class="headerlink" title="三、字符串的常用操作"></a>三、字符串的常用操作</h1><h1 id="四、元组的定义和常用操作"><a href="#四、元组的定义和常用操作" class="headerlink" title="四、元组的定义和常用操作"></a>四、元组的定义和常用操作</h1><h1 id="五、列表的定义和常用操作"><a href="#五、列表的定义和常用操作" class="headerlink" title="五、列表的定义和常用操作"></a>五、列表的定义和常用操作</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一、序列的概念&quot;&gt;&lt;a href=&quot;#一、序列的概念&quot; class=&quot;headerlink&quot; title=&quot;一、序列的概念&quot;&gt;&lt;/a&gt;一、序列的概念&lt;/h1&gt;&lt;h1 id=&quot;二、字符串的定义&quot;&gt;&lt;a href=&quot;#二、字符串的定义&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《Python学习笔记02》</title>
     <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/《Python学习笔记02》.html</id>
     <published>2019-07-16T09:35:16.000Z</published>
-    <updated>2019-07-16T09:37:02.347Z</updated>
+    <updated>2019-07-18T03:11:00.342Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Python基础语法学习"><a href="#Python基础语法学习" class="headerlink" title="Python基础语法学习"></a>Python基础语法学习</h1><h2 id="一、Python程序的书写规则"><a href="#一、Python程序的书写规则" class="headerlink" title="一、Python程序的书写规则"></a>一、Python程序的书写规则</h2><h2 id="二、基础数据类型"><a href="#二、基础数据类型" class="headerlink" title="二、基础数据类型"></a>二、基础数据类型</h2><h2 id="三、变量的定义和常用操作"><a href="#三、变量的定义和常用操作" class="headerlink" title="三、变量的定义和常用操作"></a>三、变量的定义和常用操作</h2>]]></content>
     
@@ -34,6 +61,12 @@
     
     </summary>
     
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   

@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《Python学习笔记03》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html</url>
+    <content type="text"><![CDATA[一、序列的概念二、字符串的定义三、字符串的常用操作四、元组的定义和常用操作五、列表的定义和常用操作]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[《Python学习笔记02》]]></title>
     <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html</url>
     <content type="text"><![CDATA[Python基础语法学习一、Python程序的书写规则二、基础数据类型三、变量的定义和常用操作]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记01》]]></title>
