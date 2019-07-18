@@ -16,7 +16,7 @@
   <entry>
     <title><![CDATA[《Python学习笔记02》]]></title>
     <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html</url>
-    <content type="text"><![CDATA[Python基础语法学习一、Python程序的书写规则二、基础数据类型三、变量的定义和常用操作]]></content>
+    <content type="text"><![CDATA[Python基础语法学习一、Python程序的书写规则1.使用#来表示注释 2.使用import来导入相应模块 `import time #导入一个时间模块` 3.使用print进行输出 `print(time.time()) #在屏幕上输出1970年一月一日0点到现在经历了多少秒` 二、基础数据类型三、变量的定义和常用操作]]></content>
       <categories>
         <category>Python学习笔记</category>
       </categories>
@@ -48,8 +48,8 @@
         <category>阅读方法</category>
       </categories>
       <tags>
-        <tag>阅读方法</tag>
         <tag>学习</tag>
+        <tag>阅读方法</tag>
         <tag>读书</tag>
       </tags>
   </entry>
@@ -62,8 +62,8 @@
         <category>管理学习</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>管理</tag>
+        <tag>学习</tag>
         <tag>成长</tag>
         <tag>读后感</tag>
       </tags>
