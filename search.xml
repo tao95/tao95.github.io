@@ -1,6 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《Python学习笔记15》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B015%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 爬虫》一、网页数据的采集与urllib库二、网页常见的两种请求方式get和post三、http头部信息的模拟四、requests库的基本使用五、结合正则表达式爬取图片链接六、BeautifulSoup的安装和使用七、使用爬虫爬取新闻网站八、使用爬虫爬取图片链接并下载图片九、如何分项源代码并设计合理的代码结构]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记14》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B014%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 机器学习库》一、机器学习的一般流程与NumPy安装二、NumPy的数组与数据类型三、NumPy数组和标量的计算四、NumPy数组的索引和切片五、Pandas安装与Series结构六、Series的基本操作七、Dataframe的基本操作八、层次化索引九、Matplotlib的安装与绘图十、机器学习分类的原理十一、Tensorflow的安装十二、根据特征值分类的模型和代码]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记13》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B013%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 标准库》一、Python标准库的定义二、正则表达式库三、正则表达式的元字符四、正则表达式分组功能实例五、正则表达式库函数match与search的区别六、正则表达式库替换函数sub()的实例七、日期和时间函数库八、数学相关库九、使用命令行对文件和文件夹操作十、文件夹操作库os.path]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记12》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B012%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 多线程编程》一、多线程编程的定义二、经典的生产者和消费者问题]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记11》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B011%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 面向对象编程》一、类与实例二、如何增加类的属性和方法三、类的继承四、类的使用-自定义with语句]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记10》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B010%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 语法规范》一、PEP8语法规范]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记09》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B009%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 模块》一、模块的定义]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记08》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B008%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 函数》一、函数的定义和常用操作二、函数的可变长参数三、函数的变量作用域四、函数的迭代器和生成器五、lambda表达式六、Python内建函数七、闭包的定义八、闭包的使用九、装饰器的定义十、装饰器的使用十一、自定义上下文管理器]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记07》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B007%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 错误和异常》一、异常的检测和处理]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记06》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B006%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 文件输入和输出》一、文件的内建函数二、文件的常用操作]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记05》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B005%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 映射与字典》一、字典的定义和常用操作二、列表推导式与字典推导式]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《Python学习笔记04》]]></title>
+    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B004%E3%80%8B.html</url>
+    <content type="text"><![CDATA[《Python 条件与循环》一、条件语句二、for循环三、while循环四、for循环语句中的if嵌套五、while循环语句中的if嵌套]]></content>
+      <categories>
+        <category>Python学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>Python</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[《Python学习笔记03》]]></title>
     <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html</url>
     <content type="text"><![CDATA[一、序列的概念二、字符串的定义三、字符串的常用操作四、元组的定义和常用操作五、列表的定义和常用操作]]></content>

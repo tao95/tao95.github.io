@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-18T03:17:41.524Z</updated>
+  <updated>2019-07-25T07:46:43.444Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -15,6 +15,354 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《Python学习笔记15》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B015%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记15》.html</id>
+    <published>2019-07-25T03:27:01.000Z</published>
+    <updated>2019-07-25T07:46:43.444Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-爬虫》"><a href="#《Python-爬虫》" class="headerlink" title="《Python 爬虫》"></a>《Python 爬虫》</h1><h2 id="一、网页数据的采集与urllib库"><a href="#一、网页数据的采集与urllib库" class="headerlink" title="一、网页数据的采集与urllib库"></a>一、网页数据的采集与urllib库</h2><h2 id="二、网页常见的两种请求方式get和post"><a href="#二、网页常见的两种请求方式get和post" class="headerlink" title="二、网页常见的两种请求方式get和post"></a>二、网页常见的两种请求方式get和post</h2><h2 id="三、http头部信息的模拟"><a href="#三、http头部信息的模拟" class="headerlink" title="三、http头部信息的模拟"></a>三、http头部信息的模拟</h2><h2 id="四、requests库的基本使用"><a href="#四、requests库的基本使用" class="headerlink" title="四、requests库的基本使用"></a>四、requests库的基本使用</h2><h2 id="五、结合正则表达式爬取图片链接"><a href="#五、结合正则表达式爬取图片链接" class="headerlink" title="五、结合正则表达式爬取图片链接"></a>五、结合正则表达式爬取图片链接</h2><h2 id="六、BeautifulSoup的安装和使用"><a href="#六、BeautifulSoup的安装和使用" class="headerlink" title="六、BeautifulSoup的安装和使用"></a>六、BeautifulSoup的安装和使用</h2><h2 id="七、使用爬虫爬取新闻网站"><a href="#七、使用爬虫爬取新闻网站" class="headerlink" title="七、使用爬虫爬取新闻网站"></a>七、使用爬虫爬取新闻网站</h2><h2 id="八、使用爬虫爬取图片链接并下载图片"><a href="#八、使用爬虫爬取图片链接并下载图片" class="headerlink" title="八、使用爬虫爬取图片链接并下载图片"></a>八、使用爬虫爬取图片链接并下载图片</h2><h2 id="九、如何分项源代码并设计合理的代码结构"><a href="#九、如何分项源代码并设计合理的代码结构" class="headerlink" title="九、如何分项源代码并设计合理的代码结构"></a>九、如何分项源代码并设计合理的代码结构</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-爬虫》&quot;&gt;&lt;a href=&quot;#《Python-爬虫》&quot; class=&quot;headerlink&quot; title=&quot;《Python 爬虫》&quot;&gt;&lt;/a&gt;《Python 爬虫》&lt;/h1&gt;&lt;h2 id=&quot;一、网页数据的采集与urllib库&quot;&gt;&lt;a href=&quot;#
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记14》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B014%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记14》.html</id>
+    <published>2019-07-25T03:26:09.000Z</published>
+    <updated>2019-07-25T07:42:19.191Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-机器学习库》"><a href="#《Python-机器学习库》" class="headerlink" title="《Python 机器学习库》"></a>《Python 机器学习库》</h1><h2 id="一、机器学习的一般流程与NumPy安装"><a href="#一、机器学习的一般流程与NumPy安装" class="headerlink" title="一、机器学习的一般流程与NumPy安装"></a>一、机器学习的一般流程与NumPy安装</h2><h2 id="二、NumPy的数组与数据类型"><a href="#二、NumPy的数组与数据类型" class="headerlink" title="二、NumPy的数组与数据类型"></a>二、NumPy的数组与数据类型</h2><h2 id="三、NumPy数组和标量的计算"><a href="#三、NumPy数组和标量的计算" class="headerlink" title="三、NumPy数组和标量的计算"></a>三、NumPy数组和标量的计算</h2><h2 id="四、NumPy数组的索引和切片"><a href="#四、NumPy数组的索引和切片" class="headerlink" title="四、NumPy数组的索引和切片"></a>四、NumPy数组的索引和切片</h2><h2 id="五、Pandas安装与Series结构"><a href="#五、Pandas安装与Series结构" class="headerlink" title="五、Pandas安装与Series结构"></a>五、Pandas安装与Series结构</h2><h2 id="六、Series的基本操作"><a href="#六、Series的基本操作" class="headerlink" title="六、Series的基本操作"></a>六、Series的基本操作</h2><h2 id="七、Dataframe的基本操作"><a href="#七、Dataframe的基本操作" class="headerlink" title="七、Dataframe的基本操作"></a>七、Dataframe的基本操作</h2><h2 id="八、层次化索引"><a href="#八、层次化索引" class="headerlink" title="八、层次化索引"></a>八、层次化索引</h2><h2 id="九、Matplotlib的安装与绘图"><a href="#九、Matplotlib的安装与绘图" class="headerlink" title="九、Matplotlib的安装与绘图"></a>九、Matplotlib的安装与绘图</h2><h2 id="十、机器学习分类的原理"><a href="#十、机器学习分类的原理" class="headerlink" title="十、机器学习分类的原理"></a>十、机器学习分类的原理</h2><h2 id="十一、Tensorflow的安装"><a href="#十一、Tensorflow的安装" class="headerlink" title="十一、Tensorflow的安装"></a>十一、Tensorflow的安装</h2><h2 id="十二、根据特征值分类的模型和代码"><a href="#十二、根据特征值分类的模型和代码" class="headerlink" title="十二、根据特征值分类的模型和代码"></a>十二、根据特征值分类的模型和代码</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-机器学习库》&quot;&gt;&lt;a href=&quot;#《Python-机器学习库》&quot; class=&quot;headerlink&quot; title=&quot;《Python 机器学习库》&quot;&gt;&lt;/a&gt;《Python 机器学习库》&lt;/h1&gt;&lt;h2 id=&quot;一、机器学习的一般流程与NumPy
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记13》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B013%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记13》.html</id>
+    <published>2019-07-25T03:25:47.000Z</published>
+    <updated>2019-07-25T07:40:33.758Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-标准库》"><a href="#《Python-标准库》" class="headerlink" title="《Python 标准库》"></a>《Python 标准库》</h1><h2 id="一、Python标准库的定义"><a href="#一、Python标准库的定义" class="headerlink" title="一、Python标准库的定义"></a>一、Python标准库的定义</h2><h2 id="二、正则表达式库"><a href="#二、正则表达式库" class="headerlink" title="二、正则表达式库"></a>二、正则表达式库</h2><h2 id="三、正则表达式的元字符"><a href="#三、正则表达式的元字符" class="headerlink" title="三、正则表达式的元字符"></a>三、正则表达式的元字符</h2><h2 id="四、正则表达式分组功能实例"><a href="#四、正则表达式分组功能实例" class="headerlink" title="四、正则表达式分组功能实例"></a>四、正则表达式分组功能实例</h2><h2 id="五、正则表达式库函数match与search的区别"><a href="#五、正则表达式库函数match与search的区别" class="headerlink" title="五、正则表达式库函数match与search的区别"></a>五、正则表达式库函数match与search的区别</h2><h2 id="六、正则表达式库替换函数sub-的实例"><a href="#六、正则表达式库替换函数sub-的实例" class="headerlink" title="六、正则表达式库替换函数sub()的实例"></a>六、正则表达式库替换函数sub()的实例</h2><h2 id="七、日期和时间函数库"><a href="#七、日期和时间函数库" class="headerlink" title="七、日期和时间函数库"></a>七、日期和时间函数库</h2><h2 id="八、数学相关库"><a href="#八、数学相关库" class="headerlink" title="八、数学相关库"></a>八、数学相关库</h2><h2 id="九、使用命令行对文件和文件夹操作"><a href="#九、使用命令行对文件和文件夹操作" class="headerlink" title="九、使用命令行对文件和文件夹操作"></a>九、使用命令行对文件和文件夹操作</h2><h2 id="十、文件夹操作库os-path"><a href="#十、文件夹操作库os-path" class="headerlink" title="十、文件夹操作库os.path"></a>十、文件夹操作库os.path</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-标准库》&quot;&gt;&lt;a href=&quot;#《Python-标准库》&quot; class=&quot;headerlink&quot; title=&quot;《Python 标准库》&quot;&gt;&lt;/a&gt;《Python 标准库》&lt;/h1&gt;&lt;h2 id=&quot;一、Python标准库的定义&quot;&gt;&lt;a href=&quot;
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记12》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B012%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记12》.html</id>
+    <published>2019-07-25T03:25:21.000Z</published>
+    <updated>2019-07-25T07:38:13.417Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-多线程编程》"><a href="#《Python-多线程编程》" class="headerlink" title="《Python 多线程编程》"></a>《Python 多线程编程》</h1><h2 id="一、多线程编程的定义"><a href="#一、多线程编程的定义" class="headerlink" title="一、多线程编程的定义"></a>一、多线程编程的定义</h2><h2 id="二、经典的生产者和消费者问题"><a href="#二、经典的生产者和消费者问题" class="headerlink" title="二、经典的生产者和消费者问题"></a>二、经典的生产者和消费者问题</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-多线程编程》&quot;&gt;&lt;a href=&quot;#《Python-多线程编程》&quot; class=&quot;headerlink&quot; title=&quot;《Python 多线程编程》&quot;&gt;&lt;/a&gt;《Python 多线程编程》&lt;/h1&gt;&lt;h2 id=&quot;一、多线程编程的定义&quot;&gt;&lt;a hr
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记11》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B011%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记11》.html</id>
+    <published>2019-07-25T03:24:56.000Z</published>
+    <updated>2019-07-25T07:37:04.166Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-面向对象编程》"><a href="#《Python-面向对象编程》" class="headerlink" title="《Python 面向对象编程》"></a>《Python 面向对象编程》</h1><h2 id="一、类与实例"><a href="#一、类与实例" class="headerlink" title="一、类与实例"></a>一、类与实例</h2><h2 id="二、如何增加类的属性和方法"><a href="#二、如何增加类的属性和方法" class="headerlink" title="二、如何增加类的属性和方法"></a>二、如何增加类的属性和方法</h2><h2 id="三、类的继承"><a href="#三、类的继承" class="headerlink" title="三、类的继承"></a>三、类的继承</h2><h2 id="四、类的使用-自定义with语句"><a href="#四、类的使用-自定义with语句" class="headerlink" title="四、类的使用-自定义with语句"></a>四、类的使用-自定义with语句</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-面向对象编程》&quot;&gt;&lt;a href=&quot;#《Python-面向对象编程》&quot; class=&quot;headerlink&quot; title=&quot;《Python 面向对象编程》&quot;&gt;&lt;/a&gt;《Python 面向对象编程》&lt;/h1&gt;&lt;h2 id=&quot;一、类与实例&quot;&gt;&lt;a hr
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记10》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B010%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记10》.html</id>
+    <published>2019-07-25T03:24:28.000Z</published>
+    <updated>2019-07-25T07:35:11.536Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-语法规范》"><a href="#《Python-语法规范》" class="headerlink" title="《Python 语法规范》"></a>《Python 语法规范》</h1><h2 id="一、PEP8语法规范"><a href="#一、PEP8语法规范" class="headerlink" title="一、PEP8语法规范"></a>一、PEP8语法规范</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-语法规范》&quot;&gt;&lt;a href=&quot;#《Python-语法规范》&quot; class=&quot;headerlink&quot; title=&quot;《Python 语法规范》&quot;&gt;&lt;/a&gt;《Python 语法规范》&lt;/h1&gt;&lt;h2 id=&quot;一、PEP8语法规范&quot;&gt;&lt;a href=&quot;
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记09》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B009%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记09》.html</id>
+    <published>2019-07-25T03:24:00.000Z</published>
+    <updated>2019-07-25T07:33:08.840Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-模块》"><a href="#《Python-模块》" class="headerlink" title="《Python 模块》"></a>《Python 模块》</h1><h2 id="一、模块的定义"><a href="#一、模块的定义" class="headerlink" title="一、模块的定义"></a>一、模块的定义</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-模块》&quot;&gt;&lt;a href=&quot;#《Python-模块》&quot; class=&quot;headerlink&quot; title=&quot;《Python 模块》&quot;&gt;&lt;/a&gt;《Python 模块》&lt;/h1&gt;&lt;h2 id=&quot;一、模块的定义&quot;&gt;&lt;a href=&quot;#一、模块的定义&quot; c
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记08》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B008%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记08》.html</id>
+    <published>2019-07-25T03:23:25.000Z</published>
+    <updated>2019-07-25T07:32:05.463Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-函数》"><a href="#《Python-函数》" class="headerlink" title="《Python 函数》"></a>《Python 函数》</h1><h2 id="一、函数的定义和常用操作"><a href="#一、函数的定义和常用操作" class="headerlink" title="一、函数的定义和常用操作"></a>一、函数的定义和常用操作</h2><h2 id="二、函数的可变长参数"><a href="#二、函数的可变长参数" class="headerlink" title="二、函数的可变长参数"></a>二、函数的可变长参数</h2><h2 id="三、函数的变量作用域"><a href="#三、函数的变量作用域" class="headerlink" title="三、函数的变量作用域"></a>三、函数的变量作用域</h2><h2 id="四、函数的迭代器和生成器"><a href="#四、函数的迭代器和生成器" class="headerlink" title="四、函数的迭代器和生成器"></a>四、函数的迭代器和生成器</h2><h2 id="五、lambda表达式"><a href="#五、lambda表达式" class="headerlink" title="五、lambda表达式"></a>五、lambda表达式</h2><h2 id="六、Python内建函数"><a href="#六、Python内建函数" class="headerlink" title="六、Python内建函数"></a>六、Python内建函数</h2><h2 id="七、闭包的定义"><a href="#七、闭包的定义" class="headerlink" title="七、闭包的定义"></a>七、闭包的定义</h2><h2 id="八、闭包的使用"><a href="#八、闭包的使用" class="headerlink" title="八、闭包的使用"></a>八、闭包的使用</h2><h2 id="九、装饰器的定义"><a href="#九、装饰器的定义" class="headerlink" title="九、装饰器的定义"></a>九、装饰器的定义</h2><h2 id="十、装饰器的使用"><a href="#十、装饰器的使用" class="headerlink" title="十、装饰器的使用"></a>十、装饰器的使用</h2><h2 id="十一、自定义上下文管理器"><a href="#十一、自定义上下文管理器" class="headerlink" title="十一、自定义上下文管理器"></a>十一、自定义上下文管理器</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-函数》&quot;&gt;&lt;a href=&quot;#《Python-函数》&quot; class=&quot;headerlink&quot; title=&quot;《Python 函数》&quot;&gt;&lt;/a&gt;《Python 函数》&lt;/h1&gt;&lt;h2 id=&quot;一、函数的定义和常用操作&quot;&gt;&lt;a href=&quot;#一、函数的
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记07》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B007%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记07》.html</id>
+    <published>2019-07-25T03:22:54.000Z</published>
+    <updated>2019-07-25T07:29:14.905Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-错误和异常》"><a href="#《Python-错误和异常》" class="headerlink" title="《Python 错误和异常》"></a>《Python 错误和异常》</h1><h2 id="一、异常的检测和处理"><a href="#一、异常的检测和处理" class="headerlink" title="一、异常的检测和处理"></a>一、异常的检测和处理</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-错误和异常》&quot;&gt;&lt;a href=&quot;#《Python-错误和异常》&quot; class=&quot;headerlink&quot; title=&quot;《Python 错误和异常》&quot;&gt;&lt;/a&gt;《Python 错误和异常》&lt;/h1&gt;&lt;h2 id=&quot;一、异常的检测和处理&quot;&gt;&lt;a hr
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记06》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B006%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记06》.html</id>
+    <published>2019-07-25T03:22:26.000Z</published>
+    <updated>2019-07-25T07:27:56.884Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-文件输入和输出》"><a href="#《Python-文件输入和输出》" class="headerlink" title="《Python 文件输入和输出》"></a>《Python 文件输入和输出》</h1><h2 id="一、文件的内建函数"><a href="#一、文件的内建函数" class="headerlink" title="一、文件的内建函数"></a>一、文件的内建函数</h2><h2 id="二、文件的常用操作"><a href="#二、文件的常用操作" class="headerlink" title="二、文件的常用操作"></a>二、文件的常用操作</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-文件输入和输出》&quot;&gt;&lt;a href=&quot;#《Python-文件输入和输出》&quot; class=&quot;headerlink&quot; title=&quot;《Python 文件输入和输出》&quot;&gt;&lt;/a&gt;《Python 文件输入和输出》&lt;/h1&gt;&lt;h2 id=&quot;一、文件的内建函数
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记05》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B005%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记05》.html</id>
+    <published>2019-07-25T03:21:50.000Z</published>
+    <updated>2019-07-25T07:26:21.065Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-映射与字典》"><a href="#《Python-映射与字典》" class="headerlink" title="《Python 映射与字典》"></a>《Python 映射与字典》</h1><h2 id="一、字典的定义和常用操作"><a href="#一、字典的定义和常用操作" class="headerlink" title="一、字典的定义和常用操作"></a>一、字典的定义和常用操作</h2><h2 id="二、列表推导式与字典推导式"><a href="#二、列表推导式与字典推导式" class="headerlink" title="二、列表推导式与字典推导式"></a>二、列表推导式与字典推导式</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-映射与字典》&quot;&gt;&lt;a href=&quot;#《Python-映射与字典》&quot; class=&quot;headerlink&quot; title=&quot;《Python 映射与字典》&quot;&gt;&lt;/a&gt;《Python 映射与字典》&lt;/h1&gt;&lt;h2 id=&quot;一、字典的定义和常用操作&quot;&gt;&lt;a 
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Python学习笔记04》</title>
+    <link href="https://www.taoyuhong.com/%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B004%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/《Python学习笔记04》.html</id>
+    <published>2019-07-25T03:21:03.000Z</published>
+    <updated>2019-07-25T07:25:00.176Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《Python-条件与循环》"><a href="#《Python-条件与循环》" class="headerlink" title="《Python 条件与循环》"></a>《Python 条件与循环》</h1><h2 id="一、条件语句"><a href="#一、条件语句" class="headerlink" title="一、条件语句"></a>一、条件语句</h2><h2 id="二、for循环"><a href="#二、for循环" class="headerlink" title="二、for循环"></a>二、for循环</h2><h2 id="三、while循环"><a href="#三、while循环" class="headerlink" title="三、while循环"></a>三、while循环</h2><h2 id="四、for循环语句中的if嵌套"><a href="#四、for循环语句中的if嵌套" class="headerlink" title="四、for循环语句中的if嵌套"></a>四、for循环语句中的if嵌套</h2><h2 id="五、while循环语句中的if嵌套"><a href="#五、while循环语句中的if嵌套" class="headerlink" title="五、while循环语句中的if嵌套"></a>五、while循环语句中的if嵌套</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;《Python-条件与循环》&quot;&gt;&lt;a href=&quot;#《Python-条件与循环》&quot; class=&quot;headerlink&quot; title=&quot;《Python 条件与循环》&quot;&gt;&lt;/a&gt;《Python 条件与循环》&lt;/h1&gt;&lt;h2 id=&quot;一、条件语句&quot;&gt;&lt;a href=&quot;
+      
+    
+    </summary>
+    
+      <category term="Python学习笔记" scheme="https://www.taoyuhong.com/categories/Python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Python" scheme="https://www.taoyuhong.com/tags/Python/"/>
+    
+      <category term="编程" scheme="https://www.taoyuhong.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>《Python学习笔记03》</title>
