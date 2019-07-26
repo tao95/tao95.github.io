@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《重装系统后，重新部署HEXO博客》]]></title>
+    <url>%2F%E3%80%8A%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2HEXO%E5%8D%9A%E5%AE%A2%E3%80%8B.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[《Python学习笔记15》]]></title>
     <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B015%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 爬虫》一、网页数据的采集与urllib库二、网页常见的两种请求方式get和post三、http头部信息的模拟四、requests库的基本使用五、结合正则表达式爬取图片链接六、BeautifulSoup的安装和使用七、使用爬虫爬取新闻网站八、使用爬虫爬取图片链接并下载图片九、如何分项源代码并设计合理的代码结构]]></content>
@@ -204,8 +209,8 @@
         <category>阅读方法</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>阅读方法</tag>
+        <tag>学习</tag>
         <tag>读书</tag>
       </tags>
   </entry>
@@ -218,8 +223,8 @@
         <category>管理学习</category>
       </categories>
       <tags>
-        <tag>管理</tag>
         <tag>学习</tag>
+        <tag>管理</tag>
         <tag>成长</tag>
         <tag>读后感</tag>
       </tags>
