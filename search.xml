@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title><![CDATA[《重装系统后，重新部署HEXO博客》]]></title>
-    <url>%2F%E3%80%8A%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2HEXO%E5%8D%9A%E5%AE%A2%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8A%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2HEXO%E5%8D%9A%E5%AE%A2%E3%80%8B.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记15》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B015%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B015%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 爬虫》一、网页数据的采集与urllib库二、网页常见的两种请求方式get和post三、http头部信息的模拟四、requests库的基本使用五、结合正则表达式爬取图片链接六、BeautifulSoup的安装和使用七、使用爬虫爬取新闻网站八、使用爬虫爬取图片链接并下载图片九、如何分项源代码并设计合理的代码结构]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记14》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B014%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B014%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 机器学习库》一、机器学习的一般流程与NumPy安装二、NumPy的数组与数据类型三、NumPy数组和标量的计算四、NumPy数组的索引和切片五、Pandas安装与Series结构六、Series的基本操作七、Dataframe的基本操作八、层次化索引九、Matplotlib的安装与绘图十、机器学习分类的原理十一、Tensorflow的安装十二、根据特征值分类的模型和代码]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -33,7 +33,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记13》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B013%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B013%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 标准库》一、Python标准库的定义二、正则表达式库三、正则表达式的元字符四、正则表达式分组功能实例五、正则表达式库函数match与search的区别六、正则表达式库替换函数sub()的实例七、日期和时间函数库八、数学相关库九、使用命令行对文件和文件夹操作十、文件夹操作库os.path]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -46,7 +46,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记12》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B012%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B012%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 多线程编程》一、多线程编程的定义二、经典的生产者和消费者问题]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -59,7 +59,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记11》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B011%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B011%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 面向对象编程》一、类与实例二、如何增加类的属性和方法三、类的继承四、类的使用-自定义with语句]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -72,7 +72,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记10》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B010%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B010%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 语法规范》一、PEP8语法规范]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -85,7 +85,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记09》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B009%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B009%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 模块》一、模块的定义]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -98,7 +98,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记08》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B008%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B008%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 函数》一、函数的定义和常用操作二、函数的可变长参数三、函数的变量作用域四、函数的迭代器和生成器五、lambda表达式六、Python内建函数七、闭包的定义八、闭包的使用九、装饰器的定义十、装饰器的使用十一、自定义上下文管理器]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -111,7 +111,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记07》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B007%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B007%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 错误和异常》一、异常的检测和处理]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -124,7 +124,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记06》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B006%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B006%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 文件输入和输出》一、文件的内建函数二、文件的常用操作]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -137,7 +137,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记05》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B005%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B005%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 映射与字典》一、字典的定义和常用操作二、列表推导式与字典推导式]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -150,7 +150,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记04》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B004%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B004%E3%80%8B.html</url>
     <content type="text"><![CDATA[《Python 条件与循环》一、条件语句二、for循环三、while循环四、for循环语句中的if嵌套五、while循环语句中的if嵌套]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -163,7 +163,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记03》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B003%E3%80%8B.html</url>
     <content type="text"><![CDATA[一、序列的概念二、字符串的定义三、字符串的常用操作四、元组的定义和常用操作五、列表的定义和常用操作]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -176,7 +176,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记02》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B002%E3%80%8B.html</url>
     <content type="text"><![CDATA[Python基础语法学习一、Python程序的书写规则1.使用#来表示注释 2.使用import来导入相应模块 `import time #导入一个时间模块` 3.使用print进行输出 `print(time.time()) #在屏幕上输出1970年一月一日0点到现在经历了多少秒` 二、基础数据类型三、变量的定义和常用操作]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -189,7 +189,7 @@
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记01》]]></title>
-    <url>%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E3%80%8APython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001%E3%80%8B.html</url>
     <content type="text"><![CDATA[- 一、Python的语言特点1.语法简洁 2.跨平台 3.可拓展 4.开放源码 5.类库丰富 - 二、Python发展历程和历史1.Python的历史：1990年Python诞生--&gt;2000年Python 2.0发布--&gt;2008年Python 3.0发布--&gt;2010年Python 2.7发布(最后一个 2.7x版本) 2.Python版本的选择：Python2.x已经是遗产，Python3.x是现在和未来的语言。使用Python最流行的发行版Anaconda。 3.学习Python编程的利器： 3.1 Python官方文档(https://www.python.org/doc/) 3.2 iPython(https://www.ipython.org)交互式的命令行解释器 3.3 jupter notebook(https://jupter-notebook.readthedocs.io/en/latest)可以在网页上进行Python编程和调试Python程序。 3.4 sublime text(https://www.sublime.com) 3.5 PyCharm(https://www.jetbrains.com/pycharm/) 3.6 Pip(https://pip.pypa.ioen/stable/installing/)解决Python的依赖关系 - 三、Python的安装1.去Python的官方文档，下载相应的系统对应的Python版本，接下来进行安装。 2.windows系统下输入cmd进入到命令提示窗口，输入python，出现python版本号，则说明python安装成功。 3.下载安装PyCharm。]]></content>
       <categories>
         <category>Python学习笔记</category>
@@ -202,7 +202,7 @@
   </entry>
   <entry>
     <title><![CDATA[读《如何阅读一本书》]]></title>
-    <url>%2F%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B.html</url>
     <content type="text"><![CDATA[作者简介：莫提默·J. 艾德勒：学者、教育家、编辑人等多重面貌享有盛名。除了写作《如何阅读一本书》外， 以主编《西方世界的经典人并担任1974年第十五版《大英百科全书》的编辑相异而闻名于世。 除了他之外还有查尔斯·范多伦。我看的是郝明义 / 朱衣 老师翻译的。]]></content>
       <categories>
         <category>读书笔记</category>
@@ -216,7 +216,7 @@
   </entry>
   <entry>
     <title><![CDATA[读《高效能人士的七个习惯》]]></title>
-    <url>%2F%E8%AF%BB%E3%80%8A%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF%E3%80%8B.html</url>
+    <url>%2Farticle%2F%E8%AF%BB%E3%80%8A%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF%E3%80%8B.html</url>
     <content type="text"><![CDATA[这本书很久以前有人推荐给我看的，那时候看了一部分后面记不清楚因为什么（可能是懒惰吧）就没看了。现在，工作了，周末休息花了点时间看完。但是看完后，有很多记不清楚，所以就花点时间来做一下读书笔记。 一. 前言1.要改变现状，就得改善自己。要改善自己，就得改变我们看待外界的观点。 2.只重技巧就仿佛考前临时抱佛脚，纵使有时顺利过关，甚至成绩还不错，但未经日积月累的苦读，绝无法学得精通，也不能增进心智的成长。 3.人的一生中，来自家庭、学校、 二. 习惯一、掌握“选择的自由”——操之在我的力量三. 习惯二、锁定生命的坐标——确立目标，全力以赴四. 习惯三、忙要忙得有意义——掌握重点的个人管理五. 习惯四、大家都可以是赢家——利人利己的人际观六. 习惯五、做个“双向传播”的聆听者——设身处地的沟通原则七. 习惯六、脑力激荡，威力无比——聚思广益的合作原则八. 习惯七、最佳的“自我投资”策略——均衡发展的成长原则]]></content>
       <categories>
         <category>读书笔记</category>
@@ -231,7 +231,7 @@
   </entry>
   <entry>
     <title><![CDATA[西山之行]]></title>
-    <url>%2F%E8%A5%BF%E5%B1%B1%E4%B9%8B%E8%A1%8C.html</url>
+    <url>%2Farticle%2F%E8%A5%BF%E5%B1%B1%E4%B9%8B%E8%A1%8C.html</url>
     <content type="text"><![CDATA[一.西山之行1.简介：1. 云南昆明西山风景区，是一个峰峦起伏、林木苍翠、白鸟争鸣、景色秀丽的森林公园。茂密的森林植被，常年 郁郁葱葱，华亭寺、太华寺、三清阁等古刹殿宇楼阁掩映于茂林修竹深处。 2. 西山，昆明“金碧湖山”的象征，雄、险、奇、秀、美尽在西山！ 2.行程：a.我和我的伙伴约好一起在西山公园地铁站回合（因为我们两个一个住在北市区一个住在高新区，相隔10几公里），我们一起吃了碗面，然后顺着上山的路一直前行。沿路都有很多人，老人和小孩都有，穿梭在道路的两旁，还有就是道路上的上山大巴车也很多，没几分钟就开过去开过来几辆。]]></content>
       <categories>
         <category>游记</category>
@@ -242,7 +242,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hexo 功能添加]]></title>
-    <url>%2FHexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0.html</url>
+    <url>%2Farticle%2FHexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0.html</url>
     <content type="text"><![CDATA[二.Hexo的功能添加优化1、选择主题 本人在搭建博客的时候踩了两个主题的坑。首先，说一下hexo默认的主题landscape,我不太喜欢（相信大多数人也不太喜欢），接着是yilia主题，它看起来很美观，但是它不是我想要的博客的样式。所以，最后将主题换成了next主题，很喜欢（目前正在使用），添加插件和增加功能都很方便。]]></content>
       <categories>
         <category>hexo 教程</category>
@@ -253,7 +253,7 @@
   </entry>
   <entry>
     <title><![CDATA[blog 搭建]]></title>
-    <url>%2Fblog-%E6%90%AD%E5%BB%BA.html</url>
+    <url>%2Farticle%2Fblog-%E6%90%AD%E5%BB%BA.html</url>
     <content type="text"><![CDATA[一.搭建的大致步骤（详细的操作步骤，网上多如牛毛，我在这里就不细说了）1.建立github账号，创建xxx.github.io的仓库。2.安装github的客户端。3.翻墙、翻墙、翻墙。（因为在安装hexo的时候，不翻墙的话，很难安装成功）4.安装相应的npm、node.js和hexo等(不会的，找度娘)。5.在自己的电脑上（windows）新建文件夹,命名为blog，然后管理员运行命令行，进入blog文件夹。6.运行命令: npm install -g hexo7.接着初始化hexo ,hexo init8.然后用命令hexo g生成静态页面9.最后使用命令hexo s启动服务,在浏览器中输入localhost:4000 就可以看到效果注：a.运行cmd是要用管理员身份运行（win+x+a）。 b.在安装hexo时,连接一下vpn,可能要快点，不然会一直卡在那儿。 c.hexo常用命令： hexo n “hello world” #新建一篇文章 hexo n page “photo” #新建一个相册页面 hexo g #生成静态页面到public目录（这个目录就是上传到 github的文件） hexo s #开启预览访问服务（默认端口4000，’ctrl + c’关闭 server） hexo d #部署到GitHub hexo clean #用来清除public文件夹]]></content>
       <categories>
         <category>hexo 教程</category>
