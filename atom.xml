@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-07-26T09:32:55.690Z</updated>
+  <updated>2019-08-09T03:09:38.633Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019昆明国际半程马拉松</title>
+    <link href="https://www.taoyuhong.com/article/2019%E6%98%86%E6%98%8E%E5%9B%BD%E9%99%85%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE.html"/>
+    <id>https://www.taoyuhong.com/article/2019昆明国际半程马拉松.html</id>
+    <published>2019-08-09T02:46:40.000Z</published>
+    <updated>2019-08-09T03:09:38.633Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/OXfNTB9.jpg" alt=""></p><h1 id="一、赛前报名阶段"><a href="#一、赛前报名阶段" class="headerlink" title="一、赛前报名阶段"></a>一、赛前报名阶段</h1><pre><code>通过跑团人员推荐，2019年7月26日登录赛事官方网站（[http://www.kunming-marathon.com]），缴纳150元后完成报名，然后等到2019年8月8日查看是否中签。</code></pre><h1 id="二、查看中签情况阶段"><a href="#二、查看中签情况阶段" class="headerlink" title="二、查看中签情况阶段"></a>二、查看中签情况阶段</h1><pre><code>2019年8月9日登录官网，输入身份证号，查看是否中签（已中签）</code></pre><p><img src="https://i.imgur.com/m4n3oGr.png" alt=""></p><h1 id="三、备战阶段"><a href="#三、备战阶段" class="headerlink" title="三、备战阶段"></a>三、备战阶段</h1><pre><code>1、从2019年8月9日开始，每天至少跑步5公里，每周跑步不少于30公里。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/OXfNTB9.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;一、赛前报名阶段&quot;&gt;&lt;a href=&quot;#一、赛前报名阶段&quot; class=&quot;headerlink&quot; title=&quot;一、赛前报名阶段&quot;&gt;&lt;/a&gt;一、赛前
+      
+    
+    </summary>
+    
+      <category term="跑步运动" scheme="https://www.taoyuhong.com/categories/%E8%B7%91%E6%AD%A5%E8%BF%90%E5%8A%A8/"/>
+    
+      <category term="马拉松" scheme="https://www.taoyuhong.com/categories/%E8%B7%91%E6%AD%A5%E8%BF%90%E5%8A%A8/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+    
+      <category term="马拉松" scheme="https://www.taoyuhong.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    
+      <category term="跑步" scheme="https://www.taoyuhong.com/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+      <category term="运动" scheme="https://www.taoyuhong.com/tags/%E8%BF%90%E5%8A%A8/"/>
+    
+      <category term="健康" scheme="https://www.taoyuhong.com/tags/%E5%81%A5%E5%BA%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>《重装系统后，重新部署HEXO博客》</title>
@@ -547,31 +581,6 @@
     
     
       <category term="-游玩 -记录" scheme="https://www.taoyuhong.com/tags/%E6%B8%B8%E7%8E%A9-%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo 功能添加</title>
-    <link href="https://www.taoyuhong.com/article/Hexo-%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0.html"/>
-    <id>https://www.taoyuhong.com/article/Hexo-功能添加.html</id>
-    <published>2018-10-18T07:32:00.000Z</published>
-    <updated>2019-07-15T09:25:28.269Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="二-Hexo的功能添加优化"><a href="#二-Hexo的功能添加优化" class="headerlink" title="二.Hexo的功能添加优化"></a>二.Hexo的功能添加优化</h1><h2 id="1、选择主题"><a href="#1、选择主题" class="headerlink" title="1、选择主题"></a>1、选择主题</h2><ul><li>本人在搭建博客的时候踩了两个主题的坑。首先，说一下hexo默认的主题landscape,我不太喜欢（相信大多数人也不太喜欢），接着是yilia主题，它看起来很美观，但是它不是我想要的博客的样式。所以，最后将主题换成了next主题，很喜欢（目前正在使用），添加插件和增加功能都很方便。</li></ul><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;二-Hexo的功能添加优化&quot;&gt;&lt;a href=&quot;#二-Hexo的功能添加优化&quot; class=&quot;headerlink&quot; title=&quot;二.Hexo的功能添加优化&quot;&gt;&lt;/a&gt;二.Hexo的功能添加优化&lt;/h1&gt;&lt;h2 id=&quot;1、选择主题&quot;&gt;&lt;a href=&quot;#1、选
-      
-    
-    </summary>
-    
-      <category term="hexo 教程" scheme="https://www.taoyuhong.com/categories/hexo-%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="-hexo -优化 -next主题" scheme="https://www.taoyuhong.com/tags/hexo-%E4%BC%98%E5%8C%96-next%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
