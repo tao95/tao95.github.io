@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-08-09T03:09:38.633Z</updated>
+  <updated>2019-10-01T13:27:44.060Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《Git学习》</title>
+    <link href="https://www.taoyuhong.com/article/%E3%80%8AGit%E5%AD%A6%E4%B9%A0%E3%80%8B.html"/>
+    <id>https://www.taoyuhong.com/article/《Git学习》.html</id>
+    <published>2019-10-01T13:25:02.000Z</published>
+    <updated>2019-10-01T13:27:44.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Git常用命令#<br>     master | 默认开发分支 </p><pre><code>- | - | -origin | 默认远程版本库</code></pre><h2 id="1-创建版本库"><a href="#1-创建版本库" class="headerlink" title="1.创建版本库"></a>1.创建版本库</h2><pre><code>git clone &lt;url&gt;  #克隆远程版本库git init         #初始化本地版本库</code></pre><h2 id="2-修改和提交"><a href="#2-修改和提交" class="headerlink" title="2.修改和提交"></a>2.修改和提交</h2><pre><code>git status       #查看状态git diff         #查看变更内容git add .        #添加所有改动过的文件git add &lt;file&gt;   #添加指定的文件git mv &lt;old&gt; &lt;nem&gt;  #修改文件名称git rm &lt;file&gt;   #删除文件git rm --cached &lt;file&gt; #停止跟踪文件但不删除git commit -m &quot;commit message&quot;  #提交所有更新过的文件git commit --amend  #修改最后一次提交</code></pre><h2 id="3-查看提交历史"><a href="#3-查看提交历史" class="headerlink" title="3.查看提交历史"></a>3.查看提交历史</h2><pre><code>git log   #查看提交历史git log -p &lt;file&gt; #查看指定文件的提交历史git blame &lt;file&gt; #以列表方式查看指定文件的提交历史</code></pre><h2 id="4-撤消"><a href="#4-撤消" class="headerlink" title="4.撤消"></a>4.撤消</h2><pre><code>git reset --hard HEAD  #撤消工作目录中所有未提交文件的修改内容git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容git revert &lt;commit&gt; #撤消指定的提交</code></pre><h2 id="5-分支与标签"><a href="#5-分支与标签" class="headerlink" title="5.分支与标签"></a>5.分支与标签</h2><pre><code>git branch  #显示所有本地分支git checkout &lt;branch/tag&gt;  #切换到指定分支或标签git branch &lt;new-branch&gt;   #创建新分支git branch -d &lt;branch&gt;  #删除本地分支git tag   #列出所有本地标签git tag &lt;tagname&gt;  #基于最新提交创建标签git tag -d &lt;tagname&gt;  #删除标签</code></pre><h2 id="6-合并与衍合"><a href="#6-合并与衍合" class="headerlink" title="6.合并与衍合"></a>6.合并与衍合</h2><pre><code>git merge &lt;branch&gt;   #合并指定分支到当前分支git rebase &lt;branch&gt;  #衍合指定分支到当前分支</code></pre><h2 id="7-远程操作"><a href="#7-远程操作" class="headerlink" title="7.远程操作"></a>7.远程操作</h2><pre><code>git remote -v  #查看远程版本库信息git remote show &lt;remote&gt;  #查看指定远程版本库信息git remote add &lt;remote&gt; &lt;url&gt;  #添加远程版本库git fetch &lt;remote&gt;  #从远程库获取代码git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并git push &lt;remote&gt; :&lt;branch/tag04-name&gt;  #删除远程分支或标签git push --tags  #上传所有标签</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#Git常用命令#&lt;br&gt;     master | 默认开发分支 &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- | - | -
+origin | 默认远程版本库
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;1-创建版本库&quot;&gt;&lt;a href=&quot;#1-创建版本库&quot; class=&quot;head
+      
+    
+    </summary>
+    
+      <category term="Git学习笔记" scheme="https://www.taoyuhong.com/categories/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记，Git" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8CGit/"/>
+    
+  </entry>
   
   <entry>
     <title>2019昆明国际半程马拉松</title>
@@ -521,9 +549,9 @@
       <category term="阅读方法" scheme="https://www.taoyuhong.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/"/>
     
     
-      <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
       <category term="阅读方法" scheme="https://www.taoyuhong.com/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/"/>
+    
+      <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="读书" scheme="https://www.taoyuhong.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
@@ -549,38 +577,13 @@
       <category term="管理学习" scheme="https://www.taoyuhong.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AE%A1%E7%90%86%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="管理" scheme="https://www.taoyuhong.com/tags/%E7%AE%A1%E7%90%86/"/>
-    
       <category term="学习" scheme="https://www.taoyuhong.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="管理" scheme="https://www.taoyuhong.com/tags/%E7%AE%A1%E7%90%86/"/>
     
       <category term="成长" scheme="https://www.taoyuhong.com/tags/%E6%88%90%E9%95%BF/"/>
     
       <category term="读后感" scheme="https://www.taoyuhong.com/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>西山之行</title>
-    <link href="https://www.taoyuhong.com/article/%E8%A5%BF%E5%B1%B1%E4%B9%8B%E8%A1%8C.html"/>
-    <id>https://www.taoyuhong.com/article/西山之行.html</id>
-    <published>2018-10-23T08:31:26.000Z</published>
-    <updated>2018-10-25T08:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="一-西山之行"><a href="#一-西山之行" class="headerlink" title="一.西山之行"></a><strong>一.西山之行</strong></h1><h2 id="1-简介："><a href="#1-简介：" class="headerlink" title="1.简介："></a><strong>1.简介：</strong></h2><pre><code>1. 云南昆明西山风景区，是一个峰峦起伏、林木苍翠、白鸟争鸣、景色秀丽的森林公园。茂密的森林植被，常年    郁郁葱葱，华亭寺、太华寺、三清阁等古刹殿宇楼阁掩映于茂林修竹深处。2. 西山，昆明“金碧湖山”的象征，雄、险、奇、秀、美尽在西山！</code></pre><h2 id="2-行程："><a href="#2-行程：" class="headerlink" title="2.行程："></a><strong>2.行程：</strong></h2><pre><code>a.我和我的伙伴约好一起在西山公园地铁站回合（因为我们两个一个住在北市区一个住在高新区，相隔10几公里），我们一起吃了碗面，然后顺着上山的路一直前行。沿路都有很多人，老人和小孩都有，穿梭在道路的两旁，还有就是道路上的上山大巴车也很多，没几分钟就开过去开过来几辆。</code></pre><p><img src="https://i.imgur.com/8j0ZFcx.jpg" alt=""></p><ol start="2"><li><p><img src="https://i.imgur.com/C6A4P7K.jpg" alt=""></p></li><li><p><img src="https://i.imgur.com/dVI8BHK.jpg" alt=""></p></li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;一-西山之行&quot;&gt;&lt;a href=&quot;#一-西山之行&quot; class=&quot;headerlink&quot; title=&quot;一.西山之行&quot;&gt;&lt;/a&gt;&lt;strong&gt;一.西山之行&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;1-简介：&quot;&gt;&lt;a href=&quot;#1-简介：&quot; class=&quot;h
-      
-    
-    </summary>
-    
-      <category term="游记" scheme="https://www.taoyuhong.com/categories/%E6%B8%B8%E8%AE%B0/"/>
-    
-    
-      <category term="-游玩 -记录" scheme="https://www.taoyuhong.com/tags/%E6%B8%B8%E7%8E%A9-%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   

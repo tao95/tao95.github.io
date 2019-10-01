@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《Git学习》]]></title>
+    <url>%2Farticle%2F%E3%80%8AGit%E5%AD%A6%E4%B9%A0%E3%80%8B.html</url>
+    <content type="text"><![CDATA[#Git常用命令# master | 默认开发分支 - | - | - origin | 默认远程版本库 1.创建版本库git clone &lt;url&gt; #克隆远程版本库 git init #初始化本地版本库 2.修改和提交git status #查看状态 git diff #查看变更内容 git add . #添加所有改动过的文件 git add &lt;file&gt; #添加指定的文件 git mv &lt;old&gt; &lt;nem&gt; #修改文件名称 git rm &lt;file&gt; #删除文件 git rm --cached &lt;file&gt; #停止跟踪文件但不删除 git commit -m &quot;commit message&quot; #提交所有更新过的文件 git commit --amend #修改最后一次提交 3.查看提交历史git log #查看提交历史 git log -p &lt;file&gt; #查看指定文件的提交历史 git blame &lt;file&gt; #以列表方式查看指定文件的提交历史 4.撤消git reset --hard HEAD #撤消工作目录中所有未提交文件的修改内容 git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容 git revert &lt;commit&gt; #撤消指定的提交 5.分支与标签git branch #显示所有本地分支 git checkout &lt;branch/tag&gt; #切换到指定分支或标签 git branch &lt;new-branch&gt; #创建新分支 git branch -d &lt;branch&gt; #删除本地分支 git tag #列出所有本地标签 git tag &lt;tagname&gt; #基于最新提交创建标签 git tag -d &lt;tagname&gt; #删除标签 6.合并与衍合git merge &lt;branch&gt; #合并指定分支到当前分支 git rebase &lt;branch&gt; #衍合指定分支到当前分支 7.远程操作git remote -v #查看远程版本库信息 git remote show &lt;remote&gt; #查看指定远程版本库信息 git remote add &lt;remote&gt; &lt;url&gt; #添加远程版本库 git fetch &lt;remote&gt; #从远程库获取代码 git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并 git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并 git push &lt;remote&gt; :&lt;branch/tag04-name&gt; #删除远程分支或标签 git push --tags #上传所有标签]]></content>
+      <categories>
+        <category>Git学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记，Git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[2019昆明国际半程马拉松]]></title>
     <url>%2Farticle%2F2019%E6%98%86%E6%98%8E%E5%9B%BD%E9%99%85%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE.html</url>
     <content type="text"><![CDATA[一、赛前报名阶段通过跑团人员推荐，2019年7月26日登录赛事官方网站（[http://www.kunming-marathon.com]），缴纳150元后完成报名，然后等到2019年8月8日查看是否中签。 二、查看中签情况阶段2019年8月9日登录官网，输入身份证号，查看是否中签（已中签） 三、备战阶段1、从2019年8月9日开始，每天至少跑步5公里，每周跑步不少于30公里。]]></content>
@@ -224,8 +235,8 @@
         <category>阅读方法</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>阅读方法</tag>
+        <tag>学习</tag>
         <tag>读书</tag>
       </tags>
   </entry>
@@ -238,8 +249,8 @@
         <category>管理学习</category>
       </categories>
       <tags>
-        <tag>管理</tag>
         <tag>学习</tag>
+        <tag>管理</tag>
         <tag>成长</tag>
         <tag>读后感</tag>
       </tags>
