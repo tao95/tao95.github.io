@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-10-01T13:27:44.060Z</updated>
+  <updated>2019-10-01T13:36:16.511Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -21,18 +21,16 @@
     <link href="https://www.taoyuhong.com/article/%E3%80%8AGit%E5%AD%A6%E4%B9%A0%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/article/《Git学习》.html</id>
     <published>2019-10-01T13:25:02.000Z</published>
-    <updated>2019-10-01T13:27:44.060Z</updated>
+    <updated>2019-10-01T13:36:16.511Z</updated>
     
-    <content type="html"><![CDATA[<p>#Git常用命令#<br>     master | 默认开发分支 </p><pre><code>- | - | -origin | 默认远程版本库</code></pre><h2 id="1-创建版本库"><a href="#1-创建版本库" class="headerlink" title="1.创建版本库"></a>1.创建版本库</h2><pre><code>git clone &lt;url&gt;  #克隆远程版本库git init         #初始化本地版本库</code></pre><h2 id="2-修改和提交"><a href="#2-修改和提交" class="headerlink" title="2.修改和提交"></a>2.修改和提交</h2><pre><code>git status       #查看状态git diff         #查看变更内容git add .        #添加所有改动过的文件git add &lt;file&gt;   #添加指定的文件git mv &lt;old&gt; &lt;nem&gt;  #修改文件名称git rm &lt;file&gt;   #删除文件git rm --cached &lt;file&gt; #停止跟踪文件但不删除git commit -m &quot;commit message&quot;  #提交所有更新过的文件git commit --amend  #修改最后一次提交</code></pre><h2 id="3-查看提交历史"><a href="#3-查看提交历史" class="headerlink" title="3.查看提交历史"></a>3.查看提交历史</h2><pre><code>git log   #查看提交历史git log -p &lt;file&gt; #查看指定文件的提交历史git blame &lt;file&gt; #以列表方式查看指定文件的提交历史</code></pre><h2 id="4-撤消"><a href="#4-撤消" class="headerlink" title="4.撤消"></a>4.撤消</h2><pre><code>git reset --hard HEAD  #撤消工作目录中所有未提交文件的修改内容git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容git revert &lt;commit&gt; #撤消指定的提交</code></pre><h2 id="5-分支与标签"><a href="#5-分支与标签" class="headerlink" title="5.分支与标签"></a>5.分支与标签</h2><pre><code>git branch  #显示所有本地分支git checkout &lt;branch/tag&gt;  #切换到指定分支或标签git branch &lt;new-branch&gt;   #创建新分支git branch -d &lt;branch&gt;  #删除本地分支git tag   #列出所有本地标签git tag &lt;tagname&gt;  #基于最新提交创建标签git tag -d &lt;tagname&gt;  #删除标签</code></pre><h2 id="6-合并与衍合"><a href="#6-合并与衍合" class="headerlink" title="6.合并与衍合"></a>6.合并与衍合</h2><pre><code>git merge &lt;branch&gt;   #合并指定分支到当前分支git rebase &lt;branch&gt;  #衍合指定分支到当前分支</code></pre><h2 id="7-远程操作"><a href="#7-远程操作" class="headerlink" title="7.远程操作"></a>7.远程操作</h2><pre><code>git remote -v  #查看远程版本库信息git remote show &lt;remote&gt;  #查看指定远程版本库信息git remote add &lt;remote&gt; &lt;url&gt;  #添加远程版本库git fetch &lt;remote&gt;  #从远程库获取代码git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并git push &lt;remote&gt; :&lt;branch/tag04-name&gt;  #删除远程分支或标签git push --tags  #上传所有标签</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>#Git常用命令#<br>    master | 默认开发分支<br>    origin | 默认远程版本库</p><h2 id="创建版本库"><a href="#创建版本库" class="headerlink" title="创建版本库"></a>创建版本库</h2><pre><code>git clone &lt;url&gt;  #克隆远程版本库git init         #初始化本地版本库</code></pre><h2 id="修改和提交"><a href="#修改和提交" class="headerlink" title="修改和提交"></a>修改和提交</h2><pre><code>git status       #查看状态git diff         #查看变更内容git add .        #添加所有改动过的文件git add &lt;file&gt;   #添加指定的文件git mv &lt;old&gt; &lt;nem&gt;  #修改文件名称git rm &lt;file&gt;   #删除文件git rm --cached &lt;file&gt; #停止跟踪文件但不删除git commit -m &quot;commit message&quot;  #提交所有更新过的文件git commit --amend  #修改最后一次提交</code></pre><h2 id="查看提交历史"><a href="#查看提交历史" class="headerlink" title="查看提交历史"></a>查看提交历史</h2><pre><code>git log   #查看提交历史git log -p &lt;file&gt; #查看指定文件的提交历史git blame &lt;file&gt; #以列表方式查看指定文件的提交历史</code></pre><h2 id="撤消"><a href="#撤消" class="headerlink" title="撤消"></a>撤消</h2><pre><code>git reset --hard HEAD  #撤消工作目录中所有未提交文件的修改内容git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容git revert &lt;commit&gt; #撤消指定的提交</code></pre><h2 id="分支与标签"><a href="#分支与标签" class="headerlink" title="分支与标签"></a>分支与标签</h2><pre><code>git branch  #显示所有本地分支git checkout &lt;branch/tag&gt;  #切换到指定分支或标签git branch &lt;new-branch&gt;   #创建新分支git branch -d &lt;branch&gt;  #删除本地分支git tag   #列出所有本地标签git tag &lt;tagname&gt;  #基于最新提交创建标签git tag -d &lt;tagname&gt;  #删除标签</code></pre><h2 id="合并与衍合"><a href="#合并与衍合" class="headerlink" title="合并与衍合"></a>合并与衍合</h2><pre><code>git merge &lt;branch&gt;   #合并指定分支到当前分支git rebase &lt;branch&gt;  #衍合指定分支到当前分支</code></pre><h2 id="远程操作"><a href="#远程操作" class="headerlink" title="远程操作"></a>远程操作</h2><pre><code>git remote -v  #查看远程版本库信息git remote show &lt;remote&gt;  #查看指定远程版本库信息git remote add &lt;remote&gt; &lt;url&gt;  #添加远程版本库git fetch &lt;remote&gt;  #从远程库获取代码git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并git push &lt;remote&gt; :&lt;branch/tag04-name&gt;  #删除远程分支或标签git push --tags  #上传所有标签</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#Git常用命令#&lt;br&gt;     master | 默认开发分支 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- | - | -
-origin | 默认远程版本库
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;1-创建版本库&quot;&gt;&lt;a href=&quot;#1-创建版本库&quot; class=&quot;head
+        &lt;p&gt;#Git常用命令#&lt;br&gt;    master | 默认开发分支&lt;br&gt;    origin | 默认远程版本库&lt;/p&gt;
+&lt;h2 id=&quot;创建版本库&quot;&gt;&lt;a href=&quot;#创建版本库&quot; class=&quot;headerlink&quot; title=&quot;创建版本库&quot;&gt;&lt;/a&gt;创建版本库&lt;/
       
     
     </summary>
