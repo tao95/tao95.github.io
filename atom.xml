@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.taoyuhong.com/"/>
-  <updated>2019-10-01T13:36:16.511Z</updated>
+  <updated>2019-10-01T13:37:09.467Z</updated>
   <id>https://www.taoyuhong.com/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://www.taoyuhong.com/article/%E3%80%8AGit%E5%AD%A6%E4%B9%A0%E3%80%8B.html"/>
     <id>https://www.taoyuhong.com/article/《Git学习》.html</id>
     <published>2019-10-01T13:25:02.000Z</published>
-    <updated>2019-10-01T13:36:16.511Z</updated>
+    <updated>2019-10-01T13:37:09.467Z</updated>
     
-    <content type="html"><![CDATA[<p>#Git常用命令#<br>    master | 默认开发分支<br>    origin | 默认远程版本库</p><h2 id="创建版本库"><a href="#创建版本库" class="headerlink" title="创建版本库"></a>创建版本库</h2><pre><code>git clone &lt;url&gt;  #克隆远程版本库git init         #初始化本地版本库</code></pre><h2 id="修改和提交"><a href="#修改和提交" class="headerlink" title="修改和提交"></a>修改和提交</h2><pre><code>git status       #查看状态git diff         #查看变更内容git add .        #添加所有改动过的文件git add &lt;file&gt;   #添加指定的文件git mv &lt;old&gt; &lt;nem&gt;  #修改文件名称git rm &lt;file&gt;   #删除文件git rm --cached &lt;file&gt; #停止跟踪文件但不删除git commit -m &quot;commit message&quot;  #提交所有更新过的文件git commit --amend  #修改最后一次提交</code></pre><h2 id="查看提交历史"><a href="#查看提交历史" class="headerlink" title="查看提交历史"></a>查看提交历史</h2><pre><code>git log   #查看提交历史git log -p &lt;file&gt; #查看指定文件的提交历史git blame &lt;file&gt; #以列表方式查看指定文件的提交历史</code></pre><h2 id="撤消"><a href="#撤消" class="headerlink" title="撤消"></a>撤消</h2><pre><code>git reset --hard HEAD  #撤消工作目录中所有未提交文件的修改内容git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容git revert &lt;commit&gt; #撤消指定的提交</code></pre><h2 id="分支与标签"><a href="#分支与标签" class="headerlink" title="分支与标签"></a>分支与标签</h2><pre><code>git branch  #显示所有本地分支git checkout &lt;branch/tag&gt;  #切换到指定分支或标签git branch &lt;new-branch&gt;   #创建新分支git branch -d &lt;branch&gt;  #删除本地分支git tag   #列出所有本地标签git tag &lt;tagname&gt;  #基于最新提交创建标签git tag -d &lt;tagname&gt;  #删除标签</code></pre><h2 id="合并与衍合"><a href="#合并与衍合" class="headerlink" title="合并与衍合"></a>合并与衍合</h2><pre><code>git merge &lt;branch&gt;   #合并指定分支到当前分支git rebase &lt;branch&gt;  #衍合指定分支到当前分支</code></pre><h2 id="远程操作"><a href="#远程操作" class="headerlink" title="远程操作"></a>远程操作</h2><pre><code>git remote -v  #查看远程版本库信息git remote show &lt;remote&gt;  #查看指定远程版本库信息git remote add &lt;remote&gt; &lt;url&gt;  #添加远程版本库git fetch &lt;remote&gt;  #从远程库获取代码git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并git push &lt;remote&gt; :&lt;branch/tag04-name&gt;  #删除远程分支或标签git push --tags  #上传所有标签</code></pre>]]></content>
+    <content type="html"><![CDATA[<h1 id="Git常用命令"><a href="#Git常用命令" class="headerlink" title="Git常用命令"></a>Git常用命令</h1><pre><code>master | 默认开发分支 origin | 默认远程版本库</code></pre><h2 id="创建版本库"><a href="#创建版本库" class="headerlink" title="创建版本库"></a>创建版本库</h2><pre><code>git clone &lt;url&gt;  #克隆远程版本库git init         #初始化本地版本库</code></pre><h2 id="修改和提交"><a href="#修改和提交" class="headerlink" title="修改和提交"></a>修改和提交</h2><pre><code>git status       #查看状态git diff         #查看变更内容git add .        #添加所有改动过的文件git add &lt;file&gt;   #添加指定的文件git mv &lt;old&gt; &lt;nem&gt;  #修改文件名称git rm &lt;file&gt;   #删除文件git rm --cached &lt;file&gt; #停止跟踪文件但不删除git commit -m &quot;commit message&quot;  #提交所有更新过的文件git commit --amend  #修改最后一次提交</code></pre><h2 id="查看提交历史"><a href="#查看提交历史" class="headerlink" title="查看提交历史"></a>查看提交历史</h2><pre><code>git log   #查看提交历史git log -p &lt;file&gt; #查看指定文件的提交历史git blame &lt;file&gt; #以列表方式查看指定文件的提交历史</code></pre><h2 id="撤消"><a href="#撤消" class="headerlink" title="撤消"></a>撤消</h2><pre><code>git reset --hard HEAD  #撤消工作目录中所有未提交文件的修改内容git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容git revert &lt;commit&gt; #撤消指定的提交</code></pre><h2 id="分支与标签"><a href="#分支与标签" class="headerlink" title="分支与标签"></a>分支与标签</h2><pre><code>git branch  #显示所有本地分支git checkout &lt;branch/tag&gt;  #切换到指定分支或标签git branch &lt;new-branch&gt;   #创建新分支git branch -d &lt;branch&gt;  #删除本地分支git tag   #列出所有本地标签git tag &lt;tagname&gt;  #基于最新提交创建标签git tag -d &lt;tagname&gt;  #删除标签</code></pre><h2 id="合并与衍合"><a href="#合并与衍合" class="headerlink" title="合并与衍合"></a>合并与衍合</h2><pre><code>git merge &lt;branch&gt;   #合并指定分支到当前分支git rebase &lt;branch&gt;  #衍合指定分支到当前分支</code></pre><h2 id="远程操作"><a href="#远程操作" class="headerlink" title="远程操作"></a>远程操作</h2><pre><code>git remote -v  #查看远程版本库信息git remote show &lt;remote&gt;  #查看指定远程版本库信息git remote add &lt;remote&gt; &lt;url&gt;  #添加远程版本库git fetch &lt;remote&gt;  #从远程库获取代码git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并git push &lt;remote&gt; :&lt;branch/tag04-name&gt;  #删除远程分支或标签git push --tags  #上传所有标签</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#Git常用命令#&lt;br&gt;    master | 默认开发分支&lt;br&gt;    origin | 默认远程版本库&lt;/p&gt;
-&lt;h2 id=&quot;创建版本库&quot;&gt;&lt;a href=&quot;#创建版本库&quot; class=&quot;headerlink&quot; title=&quot;创建版本库&quot;&gt;&lt;/a&gt;创建版本库&lt;/
+        &lt;h1 id=&quot;Git常用命令&quot;&gt;&lt;a href=&quot;#Git常用命令&quot; class=&quot;headerlink&quot; title=&quot;Git常用命令&quot;&gt;&lt;/a&gt;Git常用命令&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;master | 默认开发分支 
+origin | 默认远程版本库
+&lt;/code&gt;&lt;
       
     
     </summary>
@@ -47,9 +48,9 @@
     <link href="https://www.taoyuhong.com/article/2019%E6%98%86%E6%98%8E%E5%9B%BD%E9%99%85%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE.html"/>
     <id>https://www.taoyuhong.com/article/2019昆明国际半程马拉松.html</id>
     <published>2019-08-09T02:46:40.000Z</published>
-    <updated>2019-08-09T03:09:38.633Z</updated>
+    <updated>2019-10-17T09:44:09.664Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/OXfNTB9.jpg" alt=""></p><h1 id="一、赛前报名阶段"><a href="#一、赛前报名阶段" class="headerlink" title="一、赛前报名阶段"></a>一、赛前报名阶段</h1><pre><code>通过跑团人员推荐，2019年7月26日登录赛事官方网站（[http://www.kunming-marathon.com]），缴纳150元后完成报名，然后等到2019年8月8日查看是否中签。</code></pre><h1 id="二、查看中签情况阶段"><a href="#二、查看中签情况阶段" class="headerlink" title="二、查看中签情况阶段"></a>二、查看中签情况阶段</h1><pre><code>2019年8月9日登录官网，输入身份证号，查看是否中签（已中签）</code></pre><p><img src="https://i.imgur.com/m4n3oGr.png" alt=""></p><h1 id="三、备战阶段"><a href="#三、备战阶段" class="headerlink" title="三、备战阶段"></a>三、备战阶段</h1><pre><code>1、从2019年8月9日开始，每天至少跑步5公里，每周跑步不少于30公里。</code></pre>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/OXfNTB9.jpg" alt=""></p><h1 id="一、赛前报名阶段"><a href="#一、赛前报名阶段" class="headerlink" title="一、赛前报名阶段"></a>一、赛前报名阶段</h1><pre><code>通过跑团人员推荐，2019年7月26日登录赛事官方网站（[http://www.kunming-marathon.com]），缴纳150元后完成报名，然后等到2019年8月8日查看是否中签。</code></pre><h1 id="二、查看中签情况阶段"><a href="#二、查看中签情况阶段" class="headerlink" title="二、查看中签情况阶段"></a>二、查看中签情况阶段</h1><pre><code>2019年8月9日登录官网，输入身份证号，查看是否中签（已中签）</code></pre><p><img src="https://i.imgur.com/m4n3oGr.png" alt=""></p><h1 id="三、备战阶段"><a href="#三、备战阶段" class="headerlink" title="三、备战阶段"></a>三、备战阶段</h1><pre><code>1、从2019年8月9日开始，每天至少跑步5公里，每周跑步不少于30公里。(未完成)</code></pre><h1 id="四、开跑"><a href="#四、开跑" class="headerlink" title="四、开跑"></a>四、开跑</h1><pre><code>1、9月6日中午从蒙自坐车回昆明，然后去体育馆领取参赛包，在体育馆里买了一双跑步鞋随便躲一下大雨。然后拍了一张照片。2、9月7号早上6点起床，从昌源中路坐地铁到达云南省博物馆。然后把东西放好后进行跑步区域，等待鸣枪起跑。3、跑步路线：(起点)云南省博物馆新馆/云南大剧院→(左转逆行)广福路→(左转)云秀路→(左转)环湖东路→(左转)驼峰街→(左转逆行)彩云南路→(右转)朝云街→(左转)和谐路→(右转)螺洲街→(终点)昆明会堂</code></pre>]]></content>
     
     <summary type="html">
     
