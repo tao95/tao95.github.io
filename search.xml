@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[读《82年生的金智英》]]></title>
+    <url>%2Farticle%2F%E8%AF%BB%E3%80%8A82%E5%B9%B4%E7%94%9F%E7%9A%84%E9%87%91%E6%99%BA%E8%8B%B1%E3%80%8B.html</url>
+    <content type="text"><![CDATA[目录 为什么读这本书主要是我平时都喜欢逛豆瓣读书，在看到《82年生的金智英》是2019年度最受关注的图书榜首，那时就有了想去读一读的想法。 作者简介[韩]赵南柱，1978年出生于漢城，梨花女子大学社会学系毕业。 内容简介金智英，1982年4月1日出生于首尔某医院妇产科。成长于公务员家庭，一家六口人住在三十三平的房子里。她就是那种你每天都会迎面遇到的普通女孩。从小，金智英就有很多困惑。家里最好的东西总是优先给弟弟，她和姐姐只能享有剩下的食物，共用一间房、一床被子。上小学时，被邻座男孩欺负，她哭着向老师倾诉，老师却笑着说：“男孩子都是这样的，愈是喜欢的女生就愈会欺负她。”上了中学，常要提地铁、公交车上的咸猪手。在学校也不能掉以轻心，也有男老师喜欢对女同学动手动脚。可她们往往选择忍气吞声。大学毕业，进入一家公关公司。她发现虽然女同事居多，高管却几乎都是男性。下班不得不去应酬，忍受客户的黄色笑话和无休止地劝酒。三十一岁结了婚，不久就在长辈的催促下有了孩子。在众人“顺理成章”的期待下，她辞掉工作，成为一名全职母亲。金智英感觉自己彷彿站在迷宫的中央，明明一直都在脚踏实地找寻出口，却发现怎么都走不到道路的尽头(ps:豆瓣) 内容摘抄1.“不是你害我辛苦，是我们两个人都辛苦。不用对我感到抱歉，也别再用一个人扛着这个家的口吻说话。没有人要你那么辛苦，也不是只有你一个人在扛。” 2.原来母亲对自己的人生、对自己因为育儿而放弃梦想感到遗憾。一时间，金智英觉得自己宛如一块体积虽小却奇重无比的石头，紧紧地压住母亲的裙角，使她无法继续向前。 3.如果真的喜欢一个人，不是应该更温柔体贴吗？不论是对朋友、家人，还是家里养的猫猫狗狗，都应当如此，这是连八岁的金智英都知道的常识。 4.“最不值得信任的人就是远房亲戚，我可不想最后搞得人财两失。” 5.你们看，首尔在这里，根本只是个小点！我们现在就住在这个小点里呢。就算去不了每个国家，也要知道世界原来这么大啊。 6.我觉得你不要只想着自己会失去什么，要多想想你会得到什么。成为父母是多么令人感动又有意义的事情啊！而且就算遇到最糟的情况，实在找不到可以托管婴儿的地方，导致你不得不离职，也别担心，我会负责养你们的，不会让你出去辛苦赚钱。 7.老师笑了出来。“男孩子都是这样的，愈是喜欢的女生就愈会欺负她，老师会再好好劝劝他，希望你们可以趁这次机会和好，不要在有误会的情况下换去和别的同学坐。” 8.不论哪个领域，技术都日新月异，尽量减少使用劳力，而唯有“家务”始终得不到大家认同。自从成为全职主妇，金智英最深刻的体悟是：人们对“持家”的双重定义。有时持家会被看作“整天在家里闲着没事做”，充满贬义和歧视；有时则被看作“养活一家老小的事”，把你捧得高高在上，却又不会用金钱来换算这件事情，因为一且有了定价，势必得有人支付。 9.由衷期盼世上每一个女儿，都可以怀抱更远大、更无限的梦想。 读后感首先，我是在豆瓣读书里看到的这一本书，但是我实际是用微信读书来读的。书中的故事情节主要分为了主人公金智英的童年时期、学生时代、职场生活和婚姻生活这四个阶段来叙述写实的。感觉每个阶段都通过各种情节来体现出韩国社会“重男轻女”的现象，说实话，我作为一个男的来看都引起我的思考，...。让我联想起，如果我(单身狗)以后结婚了，我的妻子是不是也会面临这种，到时该如何选择。最后愿主人公金智英能康复。]]></content>
+      <categories>
+        <category>读书笔记</category>
+        <category>文学小说</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+        <tag>人生</tag>
+        <tag>女性，韩国文学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[《Git学习》]]></title>
     <url>%2Farticle%2F%E3%80%8AGit%E5%AD%A6%E4%B9%A0%E3%80%8B.html</url>
     <content type="text"><![CDATA[Git常用命令master | 默认开发分支 origin | 默认远程版本库 创建版本库git clone &lt;url&gt; #克隆远程版本库 git init #初始化本地版本库 修改和提交git status #查看状态 git diff #查看变更内容 git add . #添加所有改动过的文件 git add &lt;file&gt; #添加指定的文件 git mv &lt;old&gt; &lt;nem&gt; #修改文件名称 git rm &lt;file&gt; #删除文件 git rm --cached &lt;file&gt; #停止跟踪文件但不删除 git commit -m &quot;commit message&quot; #提交所有更新过的文件 git commit --amend #修改最后一次提交 查看提交历史git log #查看提交历史 git log -p &lt;file&gt; #查看指定文件的提交历史 git blame &lt;file&gt; #以列表方式查看指定文件的提交历史 撤消git reset --hard HEAD #撤消工作目录中所有未提交文件的修改内容 git checkout HEAD &lt;file&gt; #撤消指定的未提交文件的修改内容 git revert &lt;commit&gt; #撤消指定的提交 分支与标签git branch #显示所有本地分支 git checkout &lt;branch/tag&gt; #切换到指定分支或标签 git branch &lt;new-branch&gt; #创建新分支 git branch -d &lt;branch&gt; #删除本地分支 git tag #列出所有本地标签 git tag &lt;tagname&gt; #基于最新提交创建标签 git tag -d &lt;tagname&gt; #删除标签 合并与衍合git merge &lt;branch&gt; #合并指定分支到当前分支 git rebase &lt;branch&gt; #衍合指定分支到当前分支 远程操作git remote -v #查看远程版本库信息 git remote show &lt;remote&gt; #查看指定远程版本库信息 git remote add &lt;remote&gt; &lt;url&gt; #添加远程版本库 git fetch &lt;remote&gt; #从远程库获取代码 git pull &lt;remote&gt; &lt;branch&gt; #下载代码及快速合并 git push &lt;remote&gt; &lt;branch&gt; #上传代码及快速合并 git push &lt;remote&gt; :&lt;branch/tag04-name&gt; #删除远程分支或标签 git push --tags #上传所有标签]]></content>
@@ -29,7 +43,10 @@
   <entry>
     <title><![CDATA[《重装系统后，重新部署HEXO博客》]]></title>
     <url>%2Farticle%2F%E3%80%8A%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2HEXO%E5%8D%9A%E5%AE%A2%E3%80%8B.html</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[为什么要写这篇教程由于个人的笔记本电脑用了4年多了，平时也没做什么保养，导致经常出现蓝屏错误代码，每次都重新安装系统。重新安装系统后，都要配置相应的开发环境。要更新hexo博客时，每次都要从网上找，很是麻烦，所以才打算自己写一篇，以后再出现这种情况的话，直接打开自己的博客进行查看。 安装Git]]></content>
+      <categories>
+        <category>hexo 教程</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[《Python学习笔记15》]]></title>
@@ -235,8 +252,8 @@
         <category>阅读方法</category>
       </categories>
       <tags>
-        <tag>阅读方法</tag>
         <tag>学习</tag>
+        <tag>阅读方法</tag>
         <tag>读书</tag>
       </tags>
   </entry>
@@ -249,8 +266,8 @@
         <category>管理学习</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>管理</tag>
+        <tag>学习</tag>
         <tag>成长</tag>
         <tag>读后感</tag>
       </tags>
